@@ -1,0 +1,10 @@
+---
+name: sol-and-encyclopedia
+description: Sol System decisions (hub plus 14 sourced body articles) and the Encyclopedia folder format; first-wave articles and what remains.
+metadata:
+  type: project
+---
+
+**Sol System (done 2026-11-14):** the user chose HUB PLUS BODY ARTICLES. `Sol System/Sol System.md` is the hub with corrected, sourced tables (orbit and rotation columns plus mean volumetric radius); `Sun.md` and one article per body (Mercury–Neptune, Ceres, Pluto, Haumea, Makemake, Eris) in `Sol System/`; each is layered (properties table, summary, physics and chemistry, In the Aquatikiverse, references). Data come from JPL phys_par, JPL approx_pos Table 1, NASA fact sheets and JPL SBDB (retrieved via the web-fetch agent); derived values (period, flux, gravity, escape velocity, density) are computed by `Sol System/Research/sol_reference.py` into `Sol adopted reference.json`. Original stub copied to `Sources/Sol System (pre-reconciliation import).md`. The old table's errors (equatorial radii mixed with mean densities, Makemake radius, stale dwarf-planet orbits) are replaced; the user did NOT choose surface/climate columns or comparator columns.
+
+**Encyclopedia (started 2026-11-14):** the user chose a NEW `Encyclopedia/` folder. Format: layered articles (plain summary → deeper physics/chemistry → In the Aquatikiverse → checked references). Written: `Encyclopedia.md` (index), `Stars.md`, `Planets and orbits.md` (status draft). Two references (Kopp & Lean 2011; Kasting et al. 1993) are cited from memory and flagged as unchecked. Third first-wave article `Redox Chemistry.md` is now drafted (with `Encyclopedia/Research/redox_reference.py`); the user wanted the biosphere reaction-set / regeneration focus, not a generic chemistry survey. Its Thauer 1977 and Schink 1997 citations and formation-energy table are from memory and still unchecked. **Why:** user wants Sol to seed the encyclopedic articles. **How to apply:** keep Solar System numbers sourced from the JSON, link examples to vault worlds, flag unverified citations, and build on this when adding Chemistry and biology; update `Encyclopedia.md` index with each article.

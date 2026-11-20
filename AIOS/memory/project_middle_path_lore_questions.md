@@ -1,0 +1,18 @@
+---
+name: middle-path-lore-questions
+description: "Open Middle Path lore questions the user asked to be asked about later, plus computed-but-unadopted contact and cosmology proposals."
+metadata:
+  type: project
+---
+
+The user said (2026-11-14): 'save these memories to ask me about later. Of course, I want to perfect the lore for Middle Path and your questions are excellent.' The physical reconciliation is finished ([[project_middle_path_priorities]]); these lore items were deliberately left out of `Middle Path.md` and `Life on Middle Path.md` and should be raised in a dedicated lore session, one topic at a time, with proposals the user can accept or edit.
+
+**Contact and cosmology (computed, not adopted; see `Ɬiʔa System/Research/middle_path_contact.py`):** (1) the Choirs would have to transmit at least ≈100 W–10 kW (a phase-locked hive of 10²–10⁴ gliders at ≈1 W each) to be heard across the planet by simple receivers, and the first radio hearing is 'angels singing in from heaven, the signal from the direction no one can bear to go' (user-adopted image); (2) direction finding only converges on the Stillpoint region (±220–2,200 km); (3) the barrier inward is heat, glare, storms and walking toward the star, not distance (23–228 days of walking from 55° to 50°–5°); (4) the inner planet periods 2/3, 1, 3/2, 9/4, 27/8 c-days are the integer ratio 16:24:36:54:81 and octave-reduce to the Pythagorean pentatonic scale 1, 9/8, 4/3, 3/2, 27/16, so the music of the spheres is literally true and could be the first bridge between humans and Choirs; (5) the turning-world cosmology (the star never moves, the stars turn once per c-day, Two-Face is inferior, the others circle the sky); (6) the Stillpoint as axis mundi where dipole axis, compass, star, tether and aurora center.
+
+**Enoch's descendants and long lives (not discussed yet):** the antediluvian descent from Enoch, how long humans live and age, why children are rare, the size and distribution of the under-one-million primitive-technology population, the timing and manner of the divine transplantation (<10,000 years ago), whether humans were modified for the 1.6-atm, CO₂-richer air, and how their long memory shapes culture.
+
+**Other lore questions raised during the work:** who built the Tethered Moon and why; the 'great room' where the tether meets the dome and the emissary and message traditions; how the Choirs and humans first met and what the later resonance codes say; what the Stillpoint means religiously and what the taboo covers; names for the whole-number calendar moments (c-day, month, season, small year, great year) and for the neighbors; how cultures differ at the dayfall strip (a real 'night' every c-day) versus the belt; what the telluric-telegraph, compass-at-the-star and fenced mirror-yard cultures look like; the first great disasters (flares, CO₂ cave deaths, glare blindness, snow-blocked den vents); the antistellar oasis people; the story of the awakening of the Choirs 10 Myr ago.
+
+**Also pending for the user to decide:** a new illustration of the hemispherical dome (the current image shows the retired planet-sized hollow moon); a read-through of the new page prose for tone; literature checks flagged in the stage page (hydrate pressures, ion escape rates, K/U/Th partitioning into cores); a three-dimensional circulation model to confirm the wind pattern.
+
+**Why:** the user wants to perfect Middle Path's lore with the same question-by-question method used for the physics. **How to apply:** open a lore session on request, pick one topic, present the physical hooks from the stage page, ask for choices, then record decisions in the stage-page style and update the pages.

@@ -1,0 +1,4926 @@
+{
+ "constants": {
+  "G": 6.6743e-11,
+  "MEARTH": 5.9722e+24,
+  "REARTH": 6371.0,
+  "MSUN": 1.98847e+30,
+  "RSUN": 695700.0,
+  "LSUN": 3.828e+26,
+  "AU": 149597870.7
+ },
+ "pages": {
+  "Aethonix System/Aethonix System.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planetary-systems",
+    "binary-stars",
+    "systems/aethonix"
+   ],
+   "class": "system",
+   "proposed": {
+    "type": "system",
+    "star": "1.1 M☉, ~1.161 R☉, 5930 K, ~1.502 L☉, G0V"
+   },
+   "cover_candidate": "Aethonix_system_diagram.svg",
+   "tables_used": 1
+  },
+  "Aethonix System/Aethonix.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "star",
+    "binary-stars",
+    "g-type-main-sequence-stars",
+    "k-type-main-sequence-stars",
+    "stars-with-proper-names",
+    "systems/aethonix"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "system": "[[Aethonix System]]",
+    "system_luminosity_sun": 1.7,
+    "metallicity_feh": 0.15,
+    "age_gyr": 4.0,
+    "distance_ly": 42.0,
+    "ra_hours": 9.3333,
+    "dec_deg": -50.0,
+    "constellation": "Vela",
+    "a_mass_sun": 1.1,
+    "a_radius_sun": 1.161,
+    "a_luminosity_sun": 1.502,
+    "a_teff_k": 5930.0,
+    "a_spectral_type": "G0V",
+    "a_rotation_period_days": 26.0,
+    "b_mass_sun": 0.7,
+    "b_radius_sun": 0.7,
+    "b_luminosity_sun": 0.198,
+    "b_teff_k": 4600.0,
+    "b_spectral_type": "K4V",
+    "b_rotation_period_days": 41.0,
+    "components": [
+     "a",
+     "b"
+    ],
+    "binary_separation_au": 0.15,
+    "binary_eccentricity": 0.01
+   },
+   "cover_candidate": "Aethonix_binary_rendering.png",
+   "tables_used": 1
+  },
+  "Aethonix System/Aska.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "systems/aethonix"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Aethonix System]]",
+    "star": "G0V+K4V binary",
+    "mass_earth": 2.5,
+    "radius_earth": 1.45,
+    "apoastron_au": 0.612,
+    "periastron_au": 0.588,
+    "semimajor_au": 0.6,
+    "eccentricity": 0.02,
+    "period_days": 126.53,
+    "rotation_period_hours": 2024.4,
+    "flux_earth": 4.7222,
+    "albedo_bond": 0.2,
+    "temperature_mean_k": 1523.15,
+    "temperature_mean_k_min": 1473.15,
+    "temperature_mean_k_max": 1573.15,
+    "pressure_surface_bar": 810.6,
+    "density_gcc": 4.52125,
+    "gravity_ms2": 11.6769,
+    "escape_kms": 14.6882,
+    "area_km2": 1072410000.0,
+    "volume_km3": 3302290000000.0,
+    "circumference_km": 58043.8
+   },
+   "cover_candidate": "Aska_viewed_from_space.png",
+   "tables_used": 1
+  },
+  "Aethonix System/Cryodon.md": {
+   "existing_aliases": [
+    "Aethonix h"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "ice-giants",
+    "systems/aethonix"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Aethonix System]]",
+    "mass_earth": 17.0,
+    "radius_earth": 4.0,
+    "periastron_au": 6.0,
+    "apoastron_au": 6.0,
+    "semimajor_au": 6.0,
+    "orbital_speed_kms": 16.31,
+    "eccentricity": 0.0,
+    "inclination_deg": 1.0,
+    "period_days": 4001.11,
+    "flux_earth": 0.047222,
+    "albedo_bond": 0.2,
+    "temperature_mean_k": 123.0,
+    "discoverer": "Aethonix Survey Consortium",
+    "discovery_method": "Direct Imaging (Thermal + Visible Light)",
+    "discovery_site": "Carina Deep Array",
+    "discovery_year": 2294,
+    "alt_names": [
+     "Aethonix h"
+    ],
+    "density_gcc": 1.46451,
+    "gravity_ms2": 10.4341,
+    "escape_kms": 23.0609,
+    "area_km2": 8161030000.0,
+    "volume_km3": 69325200000000.0,
+    "circumference_km": 160121.0
+   },
+   "cover_candidate": "Cryodon.png",
+   "tables_used": 1
+  },
+  "Aethonix System/Glaciumite.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "minerals",
+    "systems/aethonix"
+   ],
+   "class": "mineral",
+   "proposed": {
+    "type": "mineral",
+    "system": "[[Aethonix System]]",
+    "density_gcc": 4.85
+   },
+   "cover_candidate": "Glaciumite_vein_sample.png",
+   "tables_used": 1
+  },
+  "Aethonix System/Goku.md": {
+   "existing_aliases": [
+    "Aethonix d",
+    "Goku (exoplanet)"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "systems/aethonix"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Aethonix System]]",
+    "mass_earth": 1.05,
+    "radius_earth": 1.0,
+    "apoastron_au": 1.38535,
+    "periastron_au": 1.30465,
+    "semimajor_au": 1.345,
+    "eccentricity": 0.03,
+    "inclination_deg": 0.0,
+    "obliquity_deg": 11.0,
+    "period_days": 424.66,
+    "rotation_period_hours": 24.0,
+    "albedo_bond": 0.27,
+    "temperature_mean_k": 293.0,
+    "pressure_surface_bar": 1.31723,
+    "moons_count": 2,
+    "discoverer": "Aethonix Survey Consortium",
+    "discovery_method": "Direct Imaging (Spectro-Imaging & Occultation)",
+    "discovery_site": "Carina Deep Array",
+    "discovery_year": 2294,
+    "alt_names": [
+     "Aethonix d"
+    ],
+    "density_gcc": 5.78912,
+    "gravity_ms2": 10.3113,
+    "escape_kms": 11.4624,
+    "area_km2": 510064000.0,
+    "volume_km3": 1083210000000.0,
+    "circumference_km": 40030.2
+   },
+   "cover_candidate": "Goku's_Flying_Frogs.png",
+   "tables_used": 1
+  },
+  "Aethonix System/Life on Goku.md": {
+   "existing_aliases": [
+    "Goku Biosphere"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "biospheres",
+    "systems/aethonix"
+   ],
+   "class": "biosphere",
+   "proposed": {
+    "type": "biosphere",
+    "system": "[[Aethonix System]]",
+    "planet": "[[Goku (exoplanet)]]",
+    "solvent": "Water (H₂O)",
+    "backbone": "Carbon-based",
+    "primary_metabolism": "Photosynthesis, Aerobic respiration",
+    "redox_couples": [
+     "O₂/organic oxidation"
+    ],
+    "membrane_chemistry": "Phospholipids and carotenoid-stabilized bilayers",
+    "photosynthesis_band_nm": "Dual: ~450–490 nm (blue), ~660–690 nm (red)",
+    "biosphere_age_gyr": 2.8,
+    "seeding_origin": "Abiogenesis",
+    "dominant_lifeforms": [
+     "Hexapodal amphibians",
+     "filter-fliers",
+     "mobile sponge-trees",
+     "coral-analog symbiotes"
+    ],
+    "ecosystems": [
+     "Reef shallows",
+     "estuarine flats",
+     "photic drift-rafts",
+     "tidal forests"
+    ],
+    "biosphere_state": "Stable, high-productivity",
+    "intelligent_species": [
+     "None (native)",
+     "Human colonists present"
+    ],
+    "civilization_level": "Offworld-colonial; no native civilization",
+    "surface_coverage": "60% open ocean, 24% shallow seas/reefs, 16% land"
+   },
+   "cover_candidate": "Goku's_Flying_Frogs.png",
+   "tables_used": 1
+  },
+  "Aethonix System/Life on Lunara.md": {
+   "existing_aliases": [
+    "Lunaran Biosphere"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "biospheres",
+    "systems/aethonix"
+   ],
+   "class": "biosphere",
+   "proposed": {
+    "type": "biosphere",
+    "system": "[[Aethonix System]]",
+    "planet": "[[Lunara (moon)]]",
+    "solvent": "Water–Ammonia brine",
+    "backbone": "Carbon-based",
+    "primary_metabolism": "Geochemical and radiolysis-fed chemosynthesis; supplemental speculative direct radiotrophy",
+    "redox_couples": [
+     "H₂/SO₄²⁻",
+     "CH₄/CO₂",
+     "Fe²⁺/Fe³⁺",
+     "Radiolytic OH•/organics"
+    ],
+    "membrane_chemistry": "Mixed lipids and cryostable ether derivatives",
+    "photosynthesis_band_nm": "No photosynthetic primary-production pathway specified; optical signaling/sensing is separate",
+    "biosphere_age_gyr": 1.0,
+    "seeding_origin": "Panspermia (cometary extremophiles)",
+    "dominant_lifeforms": [
+     "Towers",
+     "Scorchers",
+     "Zeppeliforms",
+     "Janusthropes"
+    ],
+    "ecosystems": [
+     "Chemovents",
+     "Radiogenic bloom fields",
+     "Brine caverns",
+     "Floating colonies"
+    ],
+    "biosphere_state": "Stable with episodic expansions",
+    "intelligent_species": [
+     "Janusthropes: intelligent social/tool-using animals",
+     "no demonstrated sapient civilization"
+    ],
+    "civilization_level": "None",
+    "surface_coverage": "Cryobrine seas, ammonia lakes, tholin plains, geothermal basins"
+   },
+   "cover_candidate": "Janusthrope.png",
+   "tables_used": 1
+  },
+  "Aethonix System/Lunara.md": {
+   "existing_aliases": [
+    "Lunara (moon)"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "moons",
+    "systems/aethonix"
+   ],
+   "class": "moon",
+   "proposed": {
+    "type": "moon",
+    "system": "[[Aethonix System]]",
+    "mass_earth": 0.086,
+    "radius_earth": 0.502276,
+    "periastron_km": 360000.0,
+    "apoastron_km": 440000.0,
+    "semimajor_km": 400000.0,
+    "eccentricity": 0.1,
+    "inclination_deg": 1.5,
+    "period_days": 9.175,
+    "albedo_bond": 0.28,
+    "temperature_mean_k": 278.0,
+    "pressure_surface_bar": 20.0,
+    "discoverer": "Aethonix Survey Consortium",
+    "discovery_method": "Direct Imaging (Thermal + Visible Light)",
+    "discovery_site": "Carina Deep Array",
+    "discovery_year": 2294,
+    "density_gcc": 3.74192,
+    "gravity_ms2": 3.34764,
+    "escape_kms": 4.6287,
+    "area_km2": 128680000.0,
+    "volume_km3": 137258000000.0,
+    "circumference_km": 20106.2
+   },
+   "cover_candidate": "Warmer_Lunara.png",
+   "tables_used": 1
+  },
+  "Aethonix System/Noctilux.md": {
+   "existing_aliases": [
+    "Aethonix g",
+    "NX-4b",
+    "Aethonix Target 77"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "systems/aethonix"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Aethonix System]]",
+    "mass_earth": 10.0,
+    "radius_earth": 3.0,
+    "apoastron_au": 4.0,
+    "periastron_au": 4.0,
+    "semimajor_au": 4.0,
+    "eccentricity": 0.0,
+    "inclination_deg": 0.1,
+    "period_days": 2177.93,
+    "flux_earth": 0.10625,
+    "albedo_bond": 0.35,
+    "temperature_mean_k": 140.0,
+    "discoverer": "Aethonix Survey Consortium",
+    "discovery_method": "Direct Imaging (Thermal + Visible Light)",
+    "discovery_site": "Carina Deep Array",
+    "discovery_year": 2294,
+    "alt_names": [
+     "Aethonix g",
+     "NX-4b",
+     "Aethonix Target 77"
+    ],
+    "density_gcc": 2.04202,
+    "gravity_ms2": 10.9114,
+    "escape_kms": 20.4231,
+    "area_km2": 4590580000.0,
+    "volume_km3": 29246600000000.0,
+    "circumference_km": 120091.0
+   },
+   "cover_candidate": "Noctilux_from_Lunara.png",
+   "tables_used": 1
+  },
+  "Aethonix System/Rimeas.md": {
+   "existing_aliases": [
+    "Aethonix f"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "systems/aethonix"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Aethonix System]]",
+    "mass_earth": 2.6,
+    "radius_earth": 1.65,
+    "periastron_au": 1.69344,
+    "apoastron_au": 1.76256,
+    "semimajor_au": 1.728,
+    "eccentricity": 0.02,
+    "inclination_deg": 0.0,
+    "period_days": 618.4,
+    "albedo_bond": 0.24,
+    "temperature_mean_k": 278.15,
+    "discoverer": "Aethonix Survey Consortium",
+    "discovery_method": "Direct Imaging (Thermal + Visible Light)",
+    "discovery_site": "Carina Deep Array",
+    "discovery_year": 2294,
+    "alt_names": [
+     "Aethonix f"
+    ],
+    "density_gcc": 3.19113,
+    "gravity_ms2": 9.37843,
+    "escape_kms": 14.0419,
+    "area_km2": 1388650000.0,
+    "volume_km3": 4865900000000.0,
+    "circumference_km": 66049.8
+   },
+   "cover_candidate": "Rimean_mining_town.png",
+   "tables_used": 1
+  },
+  "Aethonix System/Thalor.md": {
+   "existing_aliases": [
+    "Aethonix e"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "systems/aethonix"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Aethonix System]]",
+    "mass_earth": 1.1,
+    "radius_earth": 1.1,
+    "periastron_au": 1.4994,
+    "apoastron_au": 1.5606,
+    "semimajor_au": 1.53,
+    "eccentricity": 0.02,
+    "inclination_deg": 2.0,
+    "period_days": 515.22,
+    "flux_earth": 0.72622,
+    "albedo_bond": 0.26,
+    "temperature_mean_k": 239.0,
+    "discoverer": "Aethonix Survey Consortium",
+    "discovery_method": "Direct imaging and transit photometry",
+    "discovery_site": "Carina Deep Array",
+    "discovery_year": 2294,
+    "alt_names": [
+     "Aethonix e"
+    ],
+    "density_gcc": 4.55656,
+    "gravity_ms2": 8.92755,
+    "escape_kms": 11.1862,
+    "area_km2": 617178000.0,
+    "volume_km3": 1441750000000.0,
+    "circumference_km": 44033.2
+   },
+   "cover_candidate": "Thalor_having_an_eruption.jpg",
+   "tables_used": 1
+  },
+  "Aethonix System/Tsurai.md": {
+   "existing_aliases": [
+    "Aethonix i",
+    "TPN-12.8"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "systems/aethonix"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Aethonix System]]",
+    "mass_earth": 25.0,
+    "radius_earth": 4.85,
+    "apoastron_au": 12.0,
+    "periastron_au": 12.0,
+    "semimajor_au": 12.0,
+    "orbital_speed_kms": 11.54,
+    "eccentricity": 0.0,
+    "inclination_deg": 0.3,
+    "period_days": 11316.9,
+    "flux_earth": 0.011806,
+    "albedo_bond": 0.25,
+    "temperature_mean_k": 86.0,
+    "discoverer": "Aethonix Survey Consortium",
+    "discovery_method": "Transit spectroscopy and occlusion tracking",
+    "discovery_site": "Carina Deep Array",
+    "discovery_year": 2294,
+    "alt_names": [
+     "Aethonix i",
+     "TPN-12.8"
+    ],
+    "density_gcc": 1.2082,
+    "gravity_ms2": 10.4371,
+    "escape_kms": 25.3969,
+    "area_km2": 11998000000.0,
+    "volume_km3": 123577000000000.0,
+    "circumference_km": 194146.0
+   },
+   "cover_candidate": "Tsurai_from_Halego.png",
+   "tables_used": 1
+  },
+  "Aethonix System/Velora.md": {
+   "existing_aliases": [
+    "Aethonix c"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "systems/aethonix"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Aethonix System]]",
+    "mass_earth": 1.1,
+    "radius_earth": 1.05,
+    "periastron_au": 1.2,
+    "apoastron_au": 1.2,
+    "semimajor_au": 1.2,
+    "orbital_speed_kms": 36.48,
+    "eccentricity": 0.0,
+    "inclination_deg": 0.0,
+    "period_days": 357.87,
+    "albedo_bond": 0.33,
+    "temperature_mean_k": 291.0,
+    "pressure_surface_bar": 0.922057,
+    "moment_of_inertia_factor": 0.33,
+    "constellation": "Vela",
+    "discoverer": "Aethonix Survey Consortium",
+    "discovery_method": "Direct Imaging (Thermal + Visible Light)",
+    "discovery_site": "Carina Deep Array",
+    "discovery_year": 2294,
+    "alt_names": [
+     "Aethonix c"
+    ],
+    "density_gcc": 5.23899,
+    "gravity_ms2": 9.79803,
+    "escape_kms": 11.4494,
+    "area_km2": 562346000.0,
+    "volume_km3": 1253950000000.0,
+    "circumference_km": 42031.7
+   },
+   "cover_candidate": "Velora's_two_suns.png",
+   "tables_used": 1
+  },
+  "Altmania System/Altmania System.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planetary-systems",
+    "binary-stars",
+    "systems/altmania"
+   ],
+   "class": "system",
+   "proposed": {
+    "type": "system",
+    "star": "Two: [[Altmania",
+    "radius_earth": 67.7027,
+    "system_mass_sun": 1.3,
+    "luminosity_sun": 0.1,
+    "age_gyr": 3.0,
+    "semimajor_au": 15.0,
+    "eccentricity": 0.04,
+    "period_days": 18627.8
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Altmania System/Altmania.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "star",
+    "binary-stars",
+    "systems/altmania"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "system": "[[Altmania System]]",
+    "system_mass_sun": 1.3,
+    "distance_ly": 156.6,
+    "ra_hours": 2.2,
+    "dec_deg": -11.0,
+    "periastron_au": 14.4,
+    "constellation": "Velora (fictional)",
+    "a_spectral_type": "K6V",
+    "b_spectral_type": "K4V",
+    "components": [
+     "a",
+     "b"
+    ],
+    "binary_separation_au": 15.0,
+    "binary_eccentricity": 0.04,
+    "binary_period_days": 18627.8
+   },
+   "cover_candidate": "Altmania.png",
+   "tables_used": 1
+  },
+  "Altmania System/Azotia.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "systems/altmania"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Altmania System]]",
+    "mass_earth": 2.0,
+    "radius_earth": 1.3,
+    "semimajor_au": 0.72,
+    "eccentricity": 0.1,
+    "inclination_deg": 1.0,
+    "period_days": 267.0,
+    "rotation_period_hours": 26.0,
+    "flux_earth": 0.4,
+    "flux_earth_min": 0.32,
+    "flux_earth_max": 0.48,
+    "temperature_mean_k": 260.0,
+    "pressure_surface_bar": 3.03975,
+    "adjectives": [
+     "Azotian"
+    ],
+    "density_gcc": 5.01907,
+    "gravity_ms2": 11.6217,
+    "escape_kms": 13.8747,
+    "area_km2": 862009000.0,
+    "volume_km3": 2379810000000.0,
+    "circumference_km": 52039.2
+   },
+   "cover_candidate": "Azotia.png",
+   "tables_used": 1
+  },
+  "Altmania System/Dichlorans.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "species",
+    "civilizations",
+    "systems/altmania"
+   ],
+   "class": "species",
+   "proposed": {
+    "type": "species",
+    "system": "[[Altmania System]]"
+   },
+   "cover_candidate": "Dichorans_at_work.png",
+   "tables_used": 0
+  },
+  "Altmania System/Dunamas.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "systems/altmania"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Altmania System]]",
+    "mass_earth": 1.05,
+    "radius_earth": 1.054,
+    "semimajor_au": 0.45,
+    "eccentricity": 0.06,
+    "inclination_deg": 2.0,
+    "obliquity_deg": 24.0,
+    "period_days": 132.0,
+    "rotation_period_hours": 25.0,
+    "flux_earth": 0.99,
+    "temperature_mean_k": 288.0,
+    "pressure_surface_bar": 0.911925,
+    "moons_count": 2,
+    "named_after": "Greek δύναμις (*dýnamis*, “force, power”)",
+    "adjectives": [
+     "Dunamian"
+    ],
+    "density_gcc": 4.94414,
+    "gravity_ms2": 9.28182,
+    "escape_kms": 11.1649,
+    "area_km2": 566639000.0,
+    "volume_km3": 1268330000000.0,
+    "circumference_km": 42191.8
+   },
+   "cover_candidate": "Rings_of_Earth_render.png",
+   "tables_used": 1
+  },
+  "Altmania System/Iodulon.md": {
+   "existing_aliases": [
+    "The Halogen World"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "systems/altmania"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Altmania System]]",
+    "star": "[[Altmania",
+    "mass_earth": 0.856,
+    "radius_earth": 0.95,
+    "semimajor_au": 0.25,
+    "period_days": 58.9,
+    "density_gcc": 5.5046,
+    "gravity_ms2": 9.31433,
+    "escape_kms": 10.6183,
+    "area_km2": 460333000.0,
+    "volume_km3": 928715000000.0,
+    "circumference_km": 38028.7
+   },
+   "cover_candidate": "Iodulon.png",
+   "tables_used": 1
+  },
+  "Altmania System/Life on Azotia.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "biospheres",
+    "systems/altmania"
+   ],
+   "class": "biosphere",
+   "proposed": {
+    "type": "biosphere",
+    "system": "[[Altmania System]]",
+    "planet": "[[Azotia]]",
+    "solvent": "Ammonia–water mixture",
+    "backbone": "Carbon-based",
+    "primary_metabolism": "Photon-driven ammonia oxidation; methanogenesis; anaerobic methane oxidation",
+    "redox_couples": [
+     "NH₃/N₂",
+     "H₂/CH₄",
+     "CH₄/CO₂"
+    ],
+    "membrane_chemistry": "Modified phospholipids adapted to ammonia solvent",
+    "photosynthesis_band_nm": "600–750 nm (orange–red light)",
+    "biosphere_age_gyr": 1.75,
+    "seeding_origin": "Abiogenesis",
+    "dominant_lifeforms": [
+     "Ammonioplankton",
+     "methanogens",
+     "anaerobic methane oxidizers",
+     "*Methanomigrator* macrofauna"
+    ],
+    "ecosystems": [
+     "Open oceans",
+     "shallow seas",
+     "hydrothermal vent fields",
+     "coastal ammonia marshes"
+    ],
+    "biosphere_state": "Stable",
+    "intelligent_species": [
+     "None"
+    ],
+    "civilization_level": "None",
+    "surface_coverage": "Ammonia–water oceans, polar ice caps, rocky continents"
+   },
+   "cover_candidate": "Slushcrawler.png",
+   "tables_used": 1
+  },
+  "Altmania System/Life on Iodulon.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "biospheres",
+    "systems/altmania"
+   ],
+   "class": "biosphere",
+   "proposed": {
+    "type": "biosphere",
+    "system": "[[Altmania System]]",
+    "planet": "[[Iodulon]]",
+    "solvent": "Liquid sulfur dioxide (SO₂) and halide brines",
+    "backbone": "Halogen-organic hybrid",
+    "primary_metabolism": "Halide oxidation, chemosynthesis",
+    "redox_couples": [
+     "CH₃Cl/CO₂ with chlorine/oxyhalogen acceptors",
+     "ferric/ferrous vent chemistry"
+    ],
+    "membrane_chemistry": "Halogenated ethers",
+    "biosphere_age_gyr": 1.1,
+    "seeding_origin": "Abiogenesis",
+    "dominant_lifeforms": [
+     "Brine-tolerant macroorganisms (Dichlorans)"
+    ],
+    "ecosystems": [
+     "SO₂ caves",
+     "brine geysers",
+     "terminator flats"
+    ],
+    "biosphere_state": "Stable",
+    "intelligent_species": [
+     "Dichlorans (coral–hexapod symbiosis)"
+    ],
+    "civilization_level": "Spacefaring dyad with lunar facilities; industrial/photonic stages in its history",
+    "surface_coverage": "Cryobrine pools, frozen plains"
+   },
+   "cover_candidate": "Coraliocytes_cell.svg",
+   "tables_used": 1
+  },
+  "Altmania System/Life on Neonova.md": {
+   "existing_aliases": [
+    "Neonova Biosphere"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "biospheres",
+    "systems/altmania"
+   ],
+   "class": "biosphere",
+   "proposed": {
+    "type": "biosphere",
+    "system": "[[Altmania System]]",
+    "planet": "[[Neonova]]",
+    "solvent": "Water (H₂O) under high pressure",
+    "backbone": "Carbon-based",
+    "primary_metabolism": "Hydrogen–methane chemotrophy, iron respiration, photo-assisted methanogenesis",
+    "redox_couples": [
+     "H₂/CO₂ → CH₄/H₂O",
+     "CH₄/Fe³⁺ → CO₂/Fe²⁺"
+    ],
+    "membrane_chemistry": "Reinforced lipid membranes; H₂-rich pressure-balanced lift sacs and noble-gas control vacuoles",
+    "photosynthesis_band_nm": "Red–near-infrared (650–900 nm)",
+    "biosphere_age_gyr": 1.2,
+    "seeding_origin": "Abiogenesis",
+    "dominant_lifeforms": [
+     "Zeppelophytes",
+     "Ferrivores",
+     "Rustworms",
+     "Methanivores",
+     "Aetherblooms"
+    ],
+    "ecosystems": [
+     "Aerial migration bands",
+     "hot lake systems",
+     "benthic iron zones"
+    ],
+    "biosphere_state": "Expanding with sky-borne diversification",
+    "intelligent_species": [
+     "None"
+    ],
+    "civilization_level": "None",
+    "surface_coverage": "Iron basins, saline hot lakes, haze-covered plains, nightside oceans"
+   },
+   "cover_candidate": "Life_on_Neonova.png",
+   "tables_used": 1
+  },
+  "Altmania System/Life on Thionis.md": {
+   "existing_aliases": [
+    "Thionisian Biosphere"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "biospheres",
+    "systems/altmania"
+   ],
+   "class": "biosphere",
+   "proposed": {
+    "type": "biosphere",
+    "system": "[[Altmania System]]",
+    "planet": "[[Thionis]]",
+    "solvent": "Liquid SO₂ / SO₂-rich solvated/gel medium with controlled water activity with trace H₂O",
+    "backbone": "Carbon-based with sulfur substitution",
+    "primary_metabolism": "Sulfur-based phototrophy, thioalcohol fermentation, methanotrophy",
+    "redox_couples": [
+     "H₂S/S",
+     "SO₂/H₂S",
+     "CH₄/SO₂"
+    ],
+    "membrane_chemistry": "Thiolipid bilayers with disulfide-reinforced proteins",
+    "photosynthesis_band_nm": "~700–900 nm (deep red to NIR)",
+    "biosphere_age_gyr": 1.2,
+    "seeding_origin": "Abiogenesis",
+    "dominant_lifeforms": [
+     "Carboplastids",
+     "Monoplastids",
+     "Ambutheres",
+     "Velocicarids",
+     "Altivolucids"
+    ],
+    "ecosystems": [
+     "Sulfur wetlands",
+     "volcanic slopes",
+     "acid oceans",
+     "cliffside forests"
+    ],
+    "biosphere_state": "Stable with episodic sulfur blooms",
+    "intelligent_species": [
+     "Ambutherius prudens",
+     "Planivolucis sagax"
+    ],
+    "civilization_level": "Paleolithic",
+    "surface_coverage": "Acidic slush plains, sulfur pools, geothermal vents"
+   },
+   "cover_candidate": "Ambutherius_prudens.png",
+   "tables_used": 1
+  },
+  "Altmania System/Nasia.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "systems/altmania"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Altmania System]]",
+    "star": "[[Altmania",
+    "mass_earth": 1.04,
+    "radius_earth": 1.02,
+    "semimajor_au": 0.32,
+    "eccentricity": 0.021,
+    "inclination_deg": 1.7,
+    "obliquity_deg": 21.0,
+    "period_days": 85.4,
+    "rotation_period_hours": 25.0,
+    "temperature_mean_k": 288.5,
+    "temperature_mean_k_min": 287.0,
+    "temperature_mean_k_max": 290.0,
+    "pressure_surface_bar": 1.11458,
+    "discovery_method": "Radial velocity and transit",
+    "discovery_site": "Advanced Radial Velocity Array (ARVA), Centauri Horizon Telescope (CHT)",
+    "density_gcc": 5.40326,
+    "gravity_ms2": 9.81653,
+    "escape_kms": 11.2953,
+    "area_km2": 530671000.0,
+    "volume_km3": 1149510000000.0,
+    "circumference_km": 40830.8
+   },
+   "cover_candidate": "Nasia_mountin.png",
+   "tables_used": 1
+  },
+  "Altmania System/Neonova.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "systems/altmania"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Altmania System]]",
+    "star": "[[Altmania",
+    "mass_earth": 4.0,
+    "radius_earth": 1.5,
+    "semimajor_au": 0.2,
+    "eccentricity": 0.0,
+    "period_days": 39.1,
+    "rotation_period_hours": 938.4,
+    "temperature_mean_k": 390.0,
+    "temperature_mean_k_min": 380.0,
+    "temperature_mean_k_max": 400.0,
+    "pressure_surface_bar": 17.2252,
+    "density_gcc": 6.53445,
+    "gravity_ms2": 17.4583,
+    "escape_kms": 18.2669,
+    "area_km2": 1147650000.0,
+    "volume_km3": 3655820000000.0,
+    "circumference_km": 60045.3
+   },
+   "cover_candidate": "Life_on_Neonova.png",
+   "tables_used": 1
+  },
+  "Altmania System/Thionis.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "systems/altmania"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Altmania System]]",
+    "star": "[[Altmania",
+    "mass_earth": 1.3,
+    "radius_earth": 1.1,
+    "semimajor_au": 0.4,
+    "eccentricity": 0.07,
+    "inclination_deg": 4.0,
+    "obliquity_deg": 3.0,
+    "period_days": 119.3,
+    "rotation_period_hours": 20.0,
+    "temperature_mean_k": 240.0,
+    "pressure_surface_bar": 4.053,
+    "density_gcc": 5.38503,
+    "gravity_ms2": 10.5507,
+    "escape_kms": 12.1606,
+    "area_km2": 617178000.0,
+    "volume_km3": 1441750000000.0,
+    "circumference_km": 44033.2
+   },
+   "cover_candidate": "Thionis.png",
+   "tables_used": 1
+  },
+  "Aquatikiverse.md": {
+   "existing_aliases": [
+    "Aquatiki-verse",
+    "Aquatiki verse"
+   ],
+   "existing_tags": [
+    "aquatikiverse"
+   ],
+   "class": "hub",
+   "proposed": {
+    "type": "hub"
+   },
+   "cover_candidate": "Earth_hub_map_(Aquatiki_verse).png",
+   "tables_used": 0
+  },
+  "BD−08°2823 System/BD−08°2823 System.md": {
+   "existing_aliases": [
+    "BD-08 2823 System",
+    "BD–08°2823 System"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "star-systems",
+    "systems/bd-08-2823"
+   ],
+   "class": "system",
+   "proposed": {
+    "type": "system",
+    "star": "[[BD−08°2823]]",
+    "teff_k": 4750.0,
+    "age_gyr": 5.0,
+    "distance_ly": 135.0,
+    "ra_hours": 10.0132,
+    "dec_deg": -9.5167,
+    "spectral_type": "K3–K4 V",
+    "constellation": "Sextans"
+   },
+   "cover_candidate": "BD−08°2823_system.svg",
+   "tables_used": 1
+  },
+  "BD−08°2823 System/BD−08°2823 b.md": {
+   "existing_aliases": [
+    "HIP 49067 b",
+    "BD-08 2823 b"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "radial-velocity-planets",
+    "systems/bd-08-2823"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[BD−08°2823 System]]",
+    "star": "[[BD−08°2823]]",
+    "mass_earth": 14.4,
+    "radius_earth": 2.2,
+    "semimajor_au": 0.056,
+    "eccentricity": 0.15,
+    "period_days": 5.6,
+    "temperature_mean_k": 810.0,
+    "discoverer": "Hébrard *et al.*",
+    "discovery_method": "Radial velocity (HARPS)",
+    "discovery_site": "La Silla Observatory",
+    "discovery_year": 2009,
+    "density_gcc": 7.4562,
+    "gravity_ms2": 29.2174,
+    "escape_kms": 28.6188,
+    "area_km2": 2468710000.0,
+    "volume_km3": 11534000000000.0,
+    "circumference_km": 88066.4
+   },
+   "cover_candidate": "BD-08-2823b_silicate_exosphere.png",
+   "tables_used": 1
+  },
+  "BD−08°2823 System/BD−08°2823 c.md": {
+   "existing_aliases": [
+    "HIP 49067 c",
+    "BD-08 2823 c"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "gas-giants",
+    "radial-velocity-planets",
+    "systems/bd-08-2823"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[BD−08°2823 System]]",
+    "star": "[[BD−08°2823]]",
+    "mass_earth": 105.0,
+    "radius_earth": 5.7,
+    "semimajor_au": 0.72,
+    "eccentricity": 0.02,
+    "period_days": 259.0,
+    "temperature_mean_k": 226.0,
+    "discoverer": "Hébrard *et al.*",
+    "discovery_method": "Radial velocity (HARPS)",
+    "discovery_site": "La Silla Observatory",
+    "discovery_year": 2009,
+    "density_gcc": 3.12599,
+    "gravity_ms2": 31.7369,
+    "escape_kms": 48.0107,
+    "area_km2": 16572000000.0,
+    "volume_km3": 200602000000000.0,
+    "circumference_km": 228172.0
+   },
+   "cover_candidate": "BD-08-2823c_warm_neptune_ringed.png",
+   "tables_used": 1
+  },
+  "BD−08°2823 System/BD−08°2823.md": {
+   "existing_aliases": [
+    "HIP 49067",
+    "BD-08 2823",
+    "BD–08°2823",
+    "SAO 137286",
+    "PPM 192987",
+    "LTT 3669",
+    "NLTT 23181",
+    "Ross 444",
+    "Gaia DR2 3770419611540574080"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "stars",
+    "k-type-main-sequence-stars",
+    "systems/bd-08-2823"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "system": "[[BD−08°2823 System]]",
+    "mass_sun": 0.02,
+    "radius_sun": 0.04,
+    "luminosity_sun": 0.001,
+    "teff_k": 63.0,
+    "age_gyr": 4.7,
+    "distance_ly": 0.2,
+    "ra_hours": 10.0133,
+    "dec_deg": -9.5167,
+    "spectral_type": "K4:V; colon denotes uncertainty",
+    "constellation": "Sextans",
+    "rotation_period_days": 1.5
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "BD−08°2823 System/Juṛvā.md": {
+   "existing_aliases": [
+    "Dark Twin"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "super-earths",
+    "systems/bd-08-2823"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[BD−08°2823 System]]",
+    "mass_earth": 6.0,
+    "radius_earth": 2.2,
+    "semimajor_au": 18.0,
+    "eccentricity": 0.01,
+    "period_days": 32425.0,
+    "temperature_mean_k": 42.5,
+    "temperature_mean_k_min": 40.0,
+    "temperature_mean_k_max": 45.0,
+    "density_gcc": 3.10675,
+    "gravity_ms2": 12.1739,
+    "escape_kms": 18.4733,
+    "area_km2": 2468710000.0,
+    "volume_km3": 11534000000000.0,
+    "circumference_km": 88066.4
+   },
+   "cover_candidate": "Dark_Twin.png",
+   "tables_used": 1
+  },
+  "BD−08°2823 System/Life on Oxhydra.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "astrobiology",
+    "biosphere",
+    "systems/bd-08-2823"
+   ],
+   "class": "biosphere",
+   "proposed": {
+    "type": "biosphere",
+    "system": "[[BD−08°2823 System]]",
+    "planet": "[[Oxhydra]]",
+    "solvent": "Episodic environmental water; intracellular aqueous brine in a silica-rich gel",
+    "backbone": "Carbon–organosilicon hybrid",
+    "primary_metabolism": "Hydrogen peroxide respiration; sulfur redox metabolism",
+    "redox_couples": [
+     "MgO₂/H₂O₂/CH₄",
+     "sulfur oxidation"
+    ],
+    "membrane_chemistry": "PDMS-derived composite reinforced with silica; exact molecular design under investigation",
+    "photosynthesis_band_nm": "None (chemosynthetic world)",
+    "biosphere_age_gyr": 3.0,
+    "seeding_origin": "Abiogenesis",
+    "dominant_lifeforms": [
+     "Bastions",
+     "hydration catalysts",
+     "peroxidovores",
+     "sulfur-metabolizers"
+    ],
+    "ecosystems": [
+     "Hydration fronts",
+     "volcanic caldera rims",
+     "ephemeral brine films"
+    ],
+    "biosphere_state": "Stable (episodic bloom–collapse cycles)",
+    "surface_coverage": "Oxidant crusts, fumarolic hydration fronts, evaporative brine fields"
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "BD−08°2823 System/Oxhydra.md": {
+   "existing_aliases": [
+    "BD−08°2823 d"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "terrestrial-planets",
+    "systems/bd-08-2823"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[BD−08°2823 System]]",
+    "mass_earth": 0.86,
+    "radius_earth": 0.96,
+    "semimajor_au": 0.56,
+    "eccentricity": 0.01,
+    "period_days": 178.0,
+    "albedo_bond": 0.65,
+    "temperature_mean_k": 260.0,
+    "alt_names": [
+     "BD-08°2823 d"
+    ],
+    "density_gcc": 5.3593,
+    "gravity_ms2": 9.16391,
+    "escape_kms": 10.5875,
+    "area_km2": 470075000.0,
+    "volume_km3": 958352000000.0,
+    "circumference_km": 38429.0
+   },
+   "cover_candidate": "Oxhydra.png",
+   "tables_used": 1
+  },
+  "BD−08°2823 System/Prithvi.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "terrestrial-planets",
+    "terraforming",
+    "systems/bd-08-2823"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[BD−08°2823 System]]",
+    "star": "[[BD−08°2823]]",
+    "mass_earth": 1.1,
+    "radius_earth": 1.12,
+    "semimajor_au": 0.94,
+    "eccentricity": 0.005,
+    "obliquity_deg": 21.0,
+    "period_days": 387.0,
+    "temperature_mean_k": 295.0,
+    "moons_count": 1,
+    "density_gcc": 4.3168,
+    "gravity_ms2": 8.61155,
+    "escape_kms": 11.0858,
+    "area_km2": 639825000.0,
+    "volume_km3": 1521830000000.0,
+    "circumference_km": 44833.8
+   },
+   "cover_candidate": "Dead_Earth.png",
+   "tables_used": 1
+  },
+  "BD−08°2823 System/Pumper Beetles.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "astrobiology",
+    "species",
+    "systems/bd-08-2823"
+   ],
+   "class": "species",
+   "proposed": {
+    "type": "species",
+    "system": "[[BD−08°2823 System]]",
+    "planet": "[[Oxhydra]]"
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "BD−08°2823 System/Varuna.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "ice-giants",
+    "systems/bd-08-2823"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[BD−08°2823 System]]",
+    "mass_earth": 17.0,
+    "radius_earth": 3.7,
+    "semimajor_au": 6.0,
+    "eccentricity": 0.01,
+    "period_days": 6240.0,
+    "temperature_mean_k": 95.0,
+    "density_gcc": 1.8504,
+    "gravity_ms2": 12.1947,
+    "escape_kms": 23.9776,
+    "area_km2": 6982780000.0,
+    "volume_km3": 54867700000000.0,
+    "circumference_km": 148112.0
+   },
+   "cover_candidate": "Icy_Peroxide_Neptune.png",
+   "tables_used": 1
+  },
+  "BD−08°2823 System/Ṭanḍī.md": {
+   "existing_aliases": [
+    "BD−08°2823 f"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "terrestrial-planets",
+    "super-earths",
+    "systems/bd-08-2823"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[BD−08°2823 System]]",
+    "mass_earth": 2.5,
+    "radius_earth": 1.2,
+    "semimajor_au": 1.9,
+    "eccentricity": 0.0,
+    "period_days": 1112.0,
+    "albedo_bond": 0.4,
+    "temperature_mean_k": 122.0,
+    "alt_names": [
+     "BD-08°2823 f"
+    ],
+    "density_gcc": 7.97663,
+    "gravity_ms2": 17.0491,
+    "escape_kms": 16.1458,
+    "area_km2": 734493000.0,
+    "volume_km3": 1871780000000.0,
+    "circumference_km": 48036.2
+   },
+   "cover_candidate": "Ṭanḍī_and_Sarkon.png",
+   "tables_used": 1
+  },
+  "Boreads System/Boreads System.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "star-systems",
+    "binary-stars",
+    "systems/boreads"
+   ],
+   "class": "system",
+   "proposed": {
+    "type": "system",
+    "star": "Calais, 0.65 M☉; Zetes, 0.55 M☉; hydrogen-atmosphere DA white dwarfs",
+    "planet": "Chronmismer; 0.77 M⊕, 0.91 R⊕"
+   },
+   "cover_candidate": "Boreads.png",
+   "tables_used": 1
+  },
+  "Boreads System/Calais and Zetes.md": {
+   "existing_aliases": [
+    "Calais",
+    "Zetes"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "binary-stars",
+    "stars-with-proper-names",
+    "white-dwarfs",
+    "systems/boreads"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "system": "[[Boreads System]]",
+    "biosphere_age_gyr": 3.5,
+    "calais_spectral_type": "DA (White Dwarf)",
+    "zetes_spectral_type": "DA (White Dwarf)",
+    "components": [
+     "calais",
+     "zetes"
+    ],
+    "binary_eccentricity": 0.0,
+    "binary_period_days": 0.155
+   },
+   "cover_candidate": "Boreads.png",
+   "tables_used": 1
+  },
+  "Boreads System/Chronmismer.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "terrestrial-planets",
+    "circumbinary-planets",
+    "systems/boreads"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Boreads System]]",
+    "star": "- \"[[Calais and Zetes]]",
+    "mass_earth": 0.77,
+    "radius_earth": 0.91,
+    "semimajor_au": 0.03,
+    "density_gcc": 5.63364,
+    "gravity_ms2": 9.1313,
+    "escape_kms": 10.2898,
+    "area_km2": 422384000.0,
+    "volume_km3": 816273000000.0,
+    "circumference_km": 36427.5
+   },
+   "cover_candidate": "Chronmismer's_two_white_dwarfs.png",
+   "tables_used": 1
+  },
+  "Boreads System/Life on Chronmismer.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "astrobiology",
+    "biosphere",
+    "systems/boreads"
+   ],
+   "class": "biosphere",
+   "proposed": {
+    "type": "biosphere",
+    "system": "[[Boreads System]]",
+    "planet": "[[Chronmismer]]",
+    "solvent": "Water (H₂O)",
+    "backbone": "Carbon-based",
+    "primary_metabolism": "Oxygenic photosynthesis, with blue-green pigment preference and broader adaptive spectra",
+    "redox_couples": [
+     "O₂/organic oxidation"
+    ],
+    "membrane_chemistry": "Phospholipid bilayers",
+    "photosynthesis_band_nm": "Preference near 480–500 nm; broader action spectra vary by lineage and epoch",
+    "biosphere_age_gyr": 3.5,
+    "seeding_origin": "Panspermia",
+    "dominant_lifeforms": [
+     "Cenlotl lineage",
+     "giant fungal forests"
+    ],
+    "ecosystems": [
+     "Substellar jungles",
+     "estuarine belts",
+     "geothermal refugia"
+    ],
+    "biosphere_state": "Retreating",
+    "intelligent_species": [
+     "Cenlotl"
+    ],
+    "civilization_level": "Spacefaring",
+    "surface_coverage": "Historical estuaries and jungles; present cold margins, geothermal/subglacial refugia and managed sanctuaries"
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Chiaroscuro System/Chiaroscuro System.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "star-systems",
+    "circumbinary-systems",
+    "systems/chiaroscuro"
+   ],
+   "class": "system",
+   "proposed": {
+    "type": "system",
+    "star": "[[Chiaroscuro]]",
+    "system_mass_sun": 2.2,
+    "age_gyr": 3.0
+   },
+   "cover_candidate": "Chiaroscuro_System_Lineup.svg",
+   "tables_used": 1
+  },
+  "Chiaroscuro System/Chiaroscuro.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "star",
+    "binary-stars",
+    "f-type-main-sequence-stars",
+    "k-type-main-sequence-stars",
+    "systems/chiaroscuro"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "system": "[[Chiaroscuro System]]",
+    "system_mass_sun": 2.2,
+    "system_luminosity_sun": 6.0,
+    "metallicity_feh": 0.2,
+    "age_gyr": 3.0,
+    "distance_ly": 326.0,
+    "ra_hours": 7.2,
+    "dec_deg": -24.0,
+    "absolute_magnitude_v": 2.9,
+    "apparent_magnitude_v": 7.9,
+    "spectral_type": "F1V + K1V",
+    "constellation": "Puppis",
+    "a_mass_sun": 1.4,
+    "a_radius_sun": 1.5,
+    "a_luminosity_sun": 5.5,
+    "a_teff_k": 7200.0,
+    "a_absolute_magnitude_v": 3.0,
+    "a_apparent_magnitude_v": 8.0,
+    "a_spectral_type": "F1V",
+    "b_mass_sun": 0.8,
+    "b_radius_sun": 0.8,
+    "b_luminosity_sun": 0.4,
+    "b_teff_k": 5150.0,
+    "b_absolute_magnitude_v": 5.8,
+    "b_apparent_magnitude_v": 10.8,
+    "b_spectral_type": "K1V",
+    "components": [
+     "a",
+     "b"
+    ],
+    "binary_separation_au": 0.07,
+    "binary_eccentricity": 0.02,
+    "binary_period_days": 4.6
+   },
+   "cover_candidate": "Phothinos.png",
+   "tables_used": 1
+  },
+  "Chiaroscuro System/Eirda.md": {
+   "existing_aliases": [
+    "Chiaroscuro d"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "terrestrial-planets",
+    "super-earths",
+    "habitable-planets",
+    "circumbinary-planets",
+    "systems/chiaroscuro"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Chiaroscuro System]]",
+    "star": "[[Chiaroscuro]]",
+    "mass_earth": 1.2,
+    "radius_earth": 1.05,
+    "semimajor_au": 2.9,
+    "eccentricity": 0.03,
+    "obliquity_deg": 38.0,
+    "period_days": 1216.0,
+    "rotation_period_hours": 28.0,
+    "flux_earth": 0.71,
+    "pressure_surface_bar": 2.0265,
+    "density_gcc": 5.71526,
+    "gravity_ms2": 10.6888,
+    "escape_kms": 11.9585,
+    "area_km2": 562346000.0,
+    "volume_km3": 1253950000000.0,
+    "circumference_km": 42031.7
+   },
+   "cover_candidate": "Eirda_twilight.png",
+   "tables_used": 1
+  },
+  "Chiaroscuro System/Ereba.md": {
+   "existing_aliases": [
+    "Chiaroscuro g"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "ice-giants",
+    "circumbinary-planets",
+    "systems/chiaroscuro"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Chiaroscuro System]]",
+    "star": "[[Chiaroscuro]]",
+    "mass_earth": 23.0,
+    "radius_earth": 5.0,
+    "semimajor_au": 17.0,
+    "orbital_speed_kms": 10.7,
+    "eccentricity": 0.04,
+    "inclination_deg": 0.2,
+    "period_days": 17276.3,
+    "albedo_bond": 0.05,
+    "temperature_mean_k": 104.0,
+    "density_gcc": 1.01447,
+    "gravity_ms2": 9.03468,
+    "escape_kms": 23.9917,
+    "area_km2": 12751600000.0,
+    "volume_km3": 135401000000000.0,
+    "circumference_km": 200151.0
+   },
+   "cover_candidate": "Ereba.png",
+   "tables_used": 1
+  },
+  "Chiaroscuro System/Euryphessa.md": {
+   "existing_aliases": [
+    "Chiaroscuro h"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "gas-giants",
+    "circumbinary-planets",
+    "systems/chiaroscuro"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Chiaroscuro System]]",
+    "star": "[[Chiaroscuro]]",
+    "mass_earth": 603.872,
+    "semimajor_au": 26.0,
+    "orbital_speed_kms": 8.7,
+    "eccentricity": 0.03,
+    "inclination_deg": 1.0,
+    "period_days": 32653.4,
+    "albedo_bond": 0.66,
+    "temperature_mean_k": 65.0,
+    "density_gcc": 1.36,
+    "gravity_ms2": 32.7,
+    "escape_kms": 74.9,
+    "area_km2": 92500000000.0,
+    "volume_km3": 2640000000000000.0
+   },
+   "cover_candidate": "Euryphessa.png",
+   "tables_used": 1
+  },
+  "Chiaroscuro System/Kharon.md": {
+   "existing_aliases": [
+    "Chiaroscuro c",
+    "Kharon (exoplanet)"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "gas-giants",
+    "circumbinary-planets",
+    "systems/chiaroscuro"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Chiaroscuro System]]",
+    "star": "[[Chiaroscuro]]",
+    "mass_earth": 1207.74,
+    "radius_earth": 12.3436,
+    "semimajor_au": 1.91,
+    "orbital_speed_kms": 32.0,
+    "eccentricity": 0.005,
+    "period_days": 650.0,
+    "flux_earth": 1.64,
+    "albedo_bond": 0.001,
+    "temperature_mean_k": 315.0,
+    "density_gcc": 3.54055,
+    "gravity_ms2": 77.8421,
+    "escape_kms": 110.649,
+    "area_km2": 77715700000.0,
+    "volume_km3": 2037220000000000.0,
+    "circumference_km": 494116.0
+   },
+   "cover_candidate": "Kharon.png",
+   "tables_used": 1
+  },
+  "Chiaroscuro System/Phothinos.md": {
+   "existing_aliases": [
+    "Chiaroscuro b"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "terrestrial-planets",
+    "circumbinary-planets",
+    "systems/chiaroscuro"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Chiaroscuro System]]",
+    "star": "[[Chiaroscuro]]",
+    "mass_earth": 2.5,
+    "radius_earth": 1.3,
+    "semimajor_au": 0.2,
+    "inclination_deg": 0.1,
+    "period_days": 22.0,
+    "albedo_bond": 0.8,
+    "temperature_mean_k": 650.0,
+    "density_gcc": 6.27383,
+    "gravity_ms2": 14.5271,
+    "escape_kms": 15.5124,
+    "area_km2": 862009000.0,
+    "volume_km3": 2379810000000.0,
+    "circumference_km": 52039.2
+   },
+   "cover_candidate": "Phothinos.png",
+   "tables_used": 1
+  },
+  "Chiaroscuro System/Skotos.md": {
+   "existing_aliases": [
+    "Chiaroscuro f"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "terrestrial-planets",
+    "circumbinary-planets",
+    "systems/chiaroscuro"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Chiaroscuro System]]",
+    "star": "[[Chiaroscuro]]",
+    "mass_earth": 19.1,
+    "radius_earth": 1.9,
+    "semimajor_au": 11.0,
+    "orbital_speed_kms": 13.3,
+    "eccentricity": 0.03,
+    "inclination_deg": 1.0,
+    "period_days": 8985.15,
+    "albedo_bond": 0.03,
+    "temperature_mean_k": 130.0,
+    "density_gcc": 15.3531,
+    "gravity_ms2": 51.9578,
+    "escape_kms": 35.4667,
+    "area_km2": 1841330000.0,
+    "volume_km3": 7429720000000.0,
+    "circumference_km": 76057.3
+   },
+   "cover_candidate": "Skotos.png",
+   "tables_used": 1
+  },
+  "Chiaroscuro System/Umbryl.md": {
+   "existing_aliases": [
+    "Chiaroscuro e"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "brown-dwarfs",
+    "circumbinary-objects",
+    "systems/chiaroscuro"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Chiaroscuro System]]",
+    "star": "[[Chiaroscuro]]",
+    "mass_earth": 6451.9,
+    "radius_earth": 11.7825,
+    "semimajor_au": 5.9,
+    "orbital_speed_kms": 18.3,
+    "eccentricity": 0.02,
+    "period_days": 3514.0,
+    "albedo_bond": 0.01,
+    "temperature_mean_k": 500.0,
+    "density_gcc": 21.7469,
+    "gravity_ms2": 456.392,
+    "escape_kms": 261.762,
+    "area_km2": 70810900000.0,
+    "volume_km3": 1771840000000000.0,
+    "circumference_km": 471656.0
+   },
+   "cover_candidate": "Umbryl_during_an_event.png",
+   "tables_used": 1
+  },
+  "Encyclopedia/Encyclopedia.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "encyclopedia"
+   ],
+   "class": "encyclopedia",
+   "proposed": {
+    "type": "encyclopedia"
+   },
+   "cover_candidate": null,
+   "tables_used": 0
+  },
+  "Encyclopedia/Planets and orbits.md": {
+   "existing_aliases": [
+    "Orbits",
+    "Planetary orbits"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "encyclopedia",
+    "physics"
+   ],
+   "class": "encyclopedia",
+   "proposed": {
+    "type": "encyclopedia"
+   },
+   "cover_candidate": null,
+   "tables_used": 0
+  },
+  "Encyclopedia/Redox Chemistry.md": {
+   "existing_aliases": [
+    "Redox",
+    "Biological energy",
+    "Metabolism and redox"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "encyclopedia",
+    "chemistry",
+    "biology"
+   ],
+   "class": "encyclopedia",
+   "proposed": {
+    "type": "encyclopedia"
+   },
+   "cover_candidate": null,
+   "tables_used": 0
+  },
+  "Encyclopedia/Stars.md": {
+   "existing_aliases": [
+    "Stellar physics"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "encyclopedia",
+    "physics"
+   ],
+   "class": "encyclopedia",
+   "proposed": {
+    "type": "encyclopedia"
+   },
+   "cover_candidate": null,
+   "tables_used": 0
+  },
+  "Gammal System/Dold-Pärla.md": {
+   "existing_aliases": [
+    "Storebror II",
+    "Dold-Parla"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "moons",
+    "habitable-worlds",
+    "systems/gammal"
+   ],
+   "class": "moon",
+   "proposed": {
+    "type": "moon",
+    "system": "Gammal",
+    "star": "Storebror",
+    "mass_earth": 0.9,
+    "radius_earth": 0.95,
+    "albedo_bond": 0.32,
+    "temperature_mean_k": 290.15,
+    "temperature_mean_k_min": 288.15,
+    "temperature_mean_k_max": 292.15,
+    "pressure_surface_bar": 1.0,
+    "surface_coverage": "77% liquid water, mainly saline oceans; 23% land",
+    "density_gcc": 5.78755,
+    "gravity_ms2": 9.7931,
+    "escape_kms": 10.8878,
+    "area_km2": 460333000.0,
+    "volume_km3": 928715000000.0,
+    "circumference_km": 38028.7
+   },
+   "cover_candidate": "Dold-Pärla_at_eclipse.png",
+   "tables_used": 1
+  },
+  "Gammal System/Gammal System.md": {
+   "existing_aliases": [
+    "Gammal planetary system"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "star-systems",
+    "systems/gammal"
+   ],
+   "class": "system",
+   "proposed": {
+    "type": "system",
+    "star": "[[Gammal]], approximately K2V",
+    "mass_earth": 273023.0,
+    "radius_earth": 86.2664,
+    "luminosity_sun": 0.34,
+    "distance_ly": 9800.0,
+    "temperature_mean_k": 4960.0,
+    "density_gcc": 2.34475,
+    "gravity_ms2": 360.28,
+    "escape_kms": 629.303,
+    "area_km2": 3795840000000.0,
+    "volume_km3": 6.95403e+17,
+    "circumference_km": 3453260.0
+   },
+   "cover_candidate": "Gammal_system_diagram.png",
+   "tables_used": 1
+  },
+  "Gammal System/Gammal.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "star",
+    "k-type-main-sequence-stars",
+    "systems/gammal"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "system": "[[Gammal System]]",
+    "mass_sun": 0.82,
+    "radius_sun": 0.79,
+    "luminosity_sun": 0.34,
+    "teff_k": 4960.0,
+    "metallicity_feh": 0.2,
+    "age_gyr": 9.5,
+    "distance_ly": 9800.0,
+    "absolute_magnitude_v": 6.21,
+    "apparent_magnitude_v": 20.1,
+    "spectral_type": "Approximately K2V; an orange dwarf, precise subclass model-dependent",
+    "constellation": "Sagittarius",
+    "rotation_period_days": 45.0
+   },
+   "cover_candidate": "Gammal_and_system.png",
+   "tables_used": 1
+  },
+  "Gammal System/Gycklare.md": {
+   "existing_aliases": [
+    "Gammal b"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "mini-neptunes",
+    "systems/gammal"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "mass_earth": 6.3,
+    "radius_earth": 2.4,
+    "semimajor_au": 0.22,
+    "orbital_speed_kms": 57.5,
+    "eccentricity": 0.005,
+    "period_days": 41.6,
+    "albedo_bond": 0.3,
+    "albedo_geometric": 0.17,
+    "density_gcc": 2.51264,
+    "gravity_ms2": 10.741,
+    "escape_kms": 18.1237,
+    "area_km2": 2937970000.0,
+    "volume_km3": 14974300000000.0,
+    "circumference_km": 96072.4,
+    "system": "[[Gammal System]]"
+   },
+   "cover_candidate": "Gycklare_render.png",
+   "tables_used": 1
+  },
+  "Gammal System/Storebror.md": {
+   "existing_aliases": [
+    "Gammal c",
+    "Storebror (exoplanet)"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "gas-giants",
+    "systems/gammal"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "mass_earth": 699.221,
+    "radius_earth": 12.3436,
+    "semimajor_au": 0.572,
+    "orbital_speed_kms": 35.7,
+    "hill_radius_km": 8100000.0,
+    "eccentricity": 0.005,
+    "period_days": 174.3,
+    "rotation_period_hours": 9.7,
+    "albedo_geometric": 0.23,
+    "temperature_eq_k": 252.0,
+    "flattening": 0.04,
+    "density_gcc": 2.0498,
+    "gravity_ms2": 45.0667,
+    "escape_kms": 84.1914,
+    "area_km2": 77715700000.0,
+    "volume_km3": 2037220000000000.0,
+    "circumference_km": 494116.0,
+    "system": "[[Gammal System]]"
+   },
+   "cover_candidate": "Storebror_render.png",
+   "tables_used": 1
+  },
+  "Ghulheim–Ferruva system/Ferruva.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "moons",
+    "systems/ghulheim-ferruva"
+   ],
+   "class": "moon",
+   "proposed": {
+    "type": "moon",
+    "mass_earth": 0.8,
+    "radius_earth": 0.95,
+    "age_gyr": 7.0,
+    "eccentricity": 0.001,
+    "moons_count": 0,
+    "density_gcc": 5.14449,
+    "gravity_ms2": 8.70498,
+    "escape_kms": 10.2651,
+    "area_km2": 460333000.0,
+    "volume_km3": 928715000000.0,
+    "circumference_km": 38028.7,
+    "system": "[[Ghulheim and Ferruva]]"
+   },
+   "cover_candidate": "Ferruva's_scarred_surface.png",
+   "tables_used": 1
+  },
+  "Ghulheim–Ferruva system/Ghulheim and Ferruva.md": {
+   "existing_aliases": [
+    "Ghulheim–Ferruva system",
+    "GXN-1"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "star-systems",
+    "systems/ghulheim-ferruva"
+   ],
+   "class": "system",
+   "proposed": {
+    "type": "system",
+    "distance_ly": 27000.0,
+    "biosphere_age_gyr": 3.5
+   },
+   "cover_candidate": "Ghulheim_seen_from_Ferruva.png",
+   "tables_used": 1
+  },
+  "Ghulheim–Ferruva system/Ghulheim.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "brown-dwarfs",
+    "systems/ghulheim-ferruva"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "mass_sun": 0.058,
+    "radius_sun": 0.0808,
+    "luminosity_sun": 7.2e-06,
+    "teff_k": 1050.0,
+    "metallicity_feh": 0.5,
+    "age_gyr": 7.0,
+    "moons_count": 1,
+    "rotation_period_days": 0.208333,
+    "system": "[[Ghulheim and Ferruva]]"
+   },
+   "cover_candidate": "Ghulheim_seen_from_Ferruva.png",
+   "tables_used": 1
+  },
+  "Ghulheim–Ferruva system/Life on Ferruva.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "biospheres",
+    "systems/ghulheim-ferruva"
+   ],
+   "class": "biosphere",
+   "proposed": {
+    "type": "biosphere",
+    "system": "[[Ghulheim and Ferruva]]",
+    "planet": "[[Ferruva]]",
+    "solvent": "Saline water, with separate PFC droplets/films and carrier compartments",
+    "biosphere_age_gyr": 3.5
+   },
+   "cover_candidate": "Ferruvan_underwater_scene.png",
+   "tables_used": 1
+  },
+  "Lytherin System/Frey.md": {
+   "existing_aliases": [
+    "Sovereign of the Outer Sphere"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "gas-giants",
+    "systems/lytherin"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Lytherin System]]",
+    "mass_earth": 320.0,
+    "radius_earth": 10.0,
+    "periastron_au": 4.18398,
+    "apoastron_au": 4.22602,
+    "semimajor_au": 4.205,
+    "eccentricity": 0.005,
+    "inclination_deg": 1.2,
+    "period_days": 1733.7,
+    "albedo_bond": 0.41,
+    "temperature_mean_k": 217.0,
+    "alt_names": [
+     "Sovereign of the Outer Sphere"
+    ],
+    "density_gcc": 1.7643,
+    "gravity_ms2": 31.425,
+    "escape_kms": 63.2785,
+    "area_km2": 51006400000.0,
+    "volume_km3": 1083210000000000.0,
+    "circumference_km": 400302.0
+   },
+   "cover_candidate": "View_from_the_moon_of_B_or_Frey.png",
+   "tables_used": 1
+  },
+  "Lytherin System/Freya.md": {
+   "existing_aliases": [
+    "High Sovereign of the Inner Breath"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "gas-giants",
+    "systems/lytherin"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Lytherin System]]",
+    "mass_earth": 300.0,
+    "radius_earth": 10.0,
+    "periastron_au": 3.00294,
+    "apoastron_au": 3.02706,
+    "semimajor_au": 3.015,
+    "eccentricity": 0.004,
+    "inclination_deg": 1.0,
+    "period_days": 1052.6,
+    "albedo_bond": 0.48,
+    "temperature_mean_k": 238.0,
+    "alt_names": [
+     "High Sovereign of the Inner Breath"
+    ],
+    "density_gcc": 1.65403,
+    "gravity_ms2": 29.4609,
+    "escape_kms": 61.2692,
+    "area_km2": 51006400000.0,
+    "volume_km3": 1083210000000000.0,
+    "circumference_km": 400302.0
+   },
+   "cover_candidate": "Gas_Giant_Called_Freya.png",
+   "tables_used": 1
+  },
+  "Lytherin System/Jaspis.md": {
+   "existing_aliases": [
+    "Lytherin c"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "systems/lytherin"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Lytherin System]]",
+    "mass_earth": 3.0,
+    "radius_earth": 1.5,
+    "periastron_au": 1.96,
+    "apoastron_au": 2.04,
+    "semimajor_au": 2.0,
+    "orbital_speed_kms": 38.26,
+    "eccentricity": 0.02,
+    "inclination_deg": 1.5,
+    "period_days": 569.79,
+    "albedo_bond": 0.05,
+    "temperature_mean_k": 450.0,
+    "alt_names": [
+     "Lytherin c"
+    ],
+    "density_gcc": 4.90084,
+    "gravity_ms2": 13.0937,
+    "escape_kms": 15.8196,
+    "area_km2": 1147650000.0,
+    "volume_km3": 3655820000000.0,
+    "circumference_km": 60045.3
+   },
+   "cover_candidate": "Jiwe_from_Jaspis.png",
+   "tables_used": 1
+  },
+  "Lytherin System/Jötunn.md": {
+   "existing_aliases": [
+    "Lytherin f"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "ice-giants",
+    "systems/lytherin"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Lytherin System]]",
+    "mass_earth": 16.9954,
+    "radius_earth": 4.39491,
+    "periastron_au": 7.25,
+    "apoastron_au": 7.55,
+    "semimajor_au": 7.4,
+    "orbital_speed_kms": 19.89,
+    "eccentricity": 0.02,
+    "inclination_deg": 2.0,
+    "period_days": 4047.34,
+    "albedo_bond": 0.4,
+    "temperature_mean_k": 160.0,
+    "temperature_mean_k_min": 150.0,
+    "temperature_mean_k_max": 170.0,
+    "alt_names": [
+     "Lytherin f"
+    ],
+    "density_gcc": 1.10384,
+    "gravity_ms2": 8.64085,
+    "escape_kms": 21.9974,
+    "area_km2": 9852010000.0,
+    "volume_km3": 91952000000000.0,
+    "circumference_km": 175929.0
+   },
+   "cover_candidate": "Jötunn_and_a_few_moons.png",
+   "tables_used": 1
+  },
+  "Lytherin System/Life on Jaspis.md": {
+   "existing_aliases": [
+    "Jaspian Biosphere"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "biospheres",
+    "systems/lytherin"
+   ],
+   "class": "biosphere",
+   "proposed": {
+    "type": "biosphere",
+    "system": "[[Lytherin System]]",
+    "planet": "[[Jaspis]]",
+    "solvent": "None (solid-state, surface polymeric interactions)",
+    "backbone": "Carbon-nitrogen lattice framework",
+    "primary_metabolism": "Thermo-mechanical energy storage, Redox-driven polymer synthesis",
+    "redox_couples": [
+     "CO/CO₂ and hydrocarbon redox disequilibria",
+     "energy-dependent HCN polymerization"
+    ],
+    "membrane_chemistry": "Fullerene-bounded lattice envelopes; some armored taxa with graphene/carbide shells",
+    "photosynthesis_band_nm": "Ultraviolet (180–280 nm), near-infrared (900–1100 nm)",
+    "biosphere_age_gyr": 0.4,
+    "seeding_origin": "Abiogenesis (thermochemical templating)",
+    "dominant_lifeforms": [
+     "Mechanically motile carbon-based macrostructures"
+    ],
+    "ecosystems": [
+     "Rift valley autotroph beds",
+     "predator plains",
+     "detritivore dunes",
+     "tar pool micro-ecologies"
+    ],
+    "biosphere_state": "Stable with localized episodic blooms",
+    "intelligent_species": [
+     "None confirmed"
+    ],
+    "civilization_level": "None",
+    "surface_coverage": "Graphite plains, diamond plateaus, soot dunes, mixed aromatic basins, carbide crusts"
+   },
+   "cover_candidate": "Jaspian_planimals_diagram.png",
+   "tables_used": 1
+  },
+  "Lytherin System/Lytherin Empire.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "civilizations",
+    "governments",
+    "systems/lytherin"
+   ],
+   "class": "civilization",
+   "proposed": {
+    "type": "civilization",
+    "system": "[[Lytherin System]]"
+   },
+   "cover_candidate": "Insignia_of_the_Lytherin_Empire.png",
+   "tables_used": 0
+  },
+  "Lytherin System/Lytherin System.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planetary-systems",
+    "binary-stars",
+    "systems/lytherin"
+   ],
+   "class": "system",
+   "proposed": {
+    "type": "system",
+    "distance_ly": 63.0
+   },
+   "cover_candidate": "Pele_Iron_Fountains.png",
+   "tables_used": 1
+  },
+  "Lytherin System/Lytherin.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "star-systems",
+    "f-type-stars",
+    "binary-stars",
+    "systems/lytherin"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "system": "[[Lytherin System]]",
+    "system_luminosity_sun": 11.0,
+    "distance_ly": 62.9481,
+    "constellation": "Cygnus",
+    "a_mass_sun": 1.7,
+    "a_radius_sun": 1.7,
+    "a_luminosity_sun": 6.0,
+    "a_teff_k": 6928.0,
+    "a_ra_hours": 19.7333,
+    "a_dec_deg": 36.25,
+    "a_absolute_magnitude_v": 2.85,
+    "a_apparent_magnitude_v": 4.28,
+    "a_spectral_type": "approximately F1–F2 V",
+    "b_mass_sun": 1.6,
+    "b_radius_sun": 1.6,
+    "b_luminosity_sun": 5.0,
+    "b_teff_k": 6824.0,
+    "b_ra_hours": 19.7333,
+    "b_dec_deg": 36.25,
+    "b_absolute_magnitude_v": 3.05,
+    "b_apparent_magnitude_v": 4.48,
+    "b_spectral_type": "approximately F2 V",
+    "components": [
+     "a",
+     "b"
+    ],
+    "binary_eccentricity": 0.001,
+    "binary_period_days": 6.358
+   },
+   "cover_candidate": "Binary-F-type-illustration.png",
+   "tables_used": 1
+  },
+  "Lytherin System/Pele.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "systems/lytherin"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Lytherin System]]",
+    "star": "[[Lytherin]] A and B, circumbinary",
+    "mass_earth": 4.0,
+    "radius_earth": 1.4,
+    "distance_ly": 63.0,
+    "semimajor_au": 0.4,
+    "eccentricity": 0.001,
+    "inclination_deg": 1.0,
+    "period_days": 50.87,
+    "albedo_bond": 0.1,
+    "density_gcc": 8.03709,
+    "gravity_ms2": 20.0414,
+    "escape_kms": 18.9081,
+    "area_km2": 999726000.0,
+    "volume_km3": 2972320000000.0,
+    "circumference_km": 56042.2
+   },
+   "cover_candidate": "Pele_Iron_Fountains.png",
+   "tables_used": 1
+  },
+  "Lytherin System/Zucchero.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planets",
+    "super-puffs",
+    "systems/lytherin"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Lytherin System]]",
+    "mass_earth": 3.19815,
+    "periastron_au": 9.02,
+    "apoastron_au": 10.58,
+    "semimajor_au": 9.8,
+    "orbital_speed_kms": 17.0,
+    "eccentricity": 0.08,
+    "inclination_deg": 4.0,
+    "period_days": 6168.34,
+    "albedo_bond": 0.4,
+    "temperature_mean_k": 140.0,
+    "gravity_ms2": 0.68,
+    "escape_kms": 7.7,
+    "area_km2": 23600000000.0,
+    "volume_km3": 341000000000000.0
+   },
+   "cover_candidate": "Zucchero_the_Superfluff.png",
+   "tables_used": 1
+  },
+  "Methuselan System/Life on Magnum.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "astrobiology",
+    "exobiology",
+    "systems/methuselan"
+   ],
+   "class": "biosphere",
+   "proposed": {
+    "type": "biosphere",
+    "system": "[[Methuselan System]]",
+    "planet": "[[Magnum]]",
+    "solvent": "Water (H₂O)",
+    "backbone": "Carbon-based",
+    "primary_metabolism": "Chemosynthesis (historically), Photosynthesis (currently)",
+    "redox_couples": [
+     "H₂/SO₄²⁻",
+     "Fe²⁺/Fe³⁺",
+     "CH₄/O₂"
+    ],
+    "membrane_chemistry": "Phospholipids and derived analogues",
+    "photosynthesis_band_nm": "500–750 nm (green–red extending into the far red)",
+    "biosphere_age_gyr": 2500.0,
+    "seeding_origin": "Abiogenesis",
+    "dominant_lifeforms": [
+     "Modular phototrophic planimals",
+     "sessile colonies",
+     "Radionaut macroinvertebrates"
+    ],
+    "ecosystems": [
+     "Deep chemosphere",
+     "pelagic phototrophic layers",
+     "benthic reef-zones",
+     "rare terrestrial margins"
+    ],
+    "biosphere_state": "Stable",
+    "intelligent_species": [
+     "None known"
+    ],
+    "civilization_level": "None",
+    "surface_coverage": "~90% global ocean, 10% scattered landmasses"
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Methuselan System/Magnum.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "moon",
+    "exomoons",
+    "systems/methuselan"
+   ],
+   "class": "moon",
+   "proposed": {
+    "type": "moon",
+    "system": "[[Methuselan System]]",
+    "star": "[[Methuselah]]",
+    "mass_earth": 3.0,
+    "radius_earth": 1.45,
+    "semimajor_au": 0.25,
+    "eccentricity": 1.0,
+    "period_days": 5.0,
+    "flux_earth": 0.32,
+    "albedo_bond": 0.4,
+    "temperature_mean_k": 270.0,
+    "density_gcc": 5.4255,
+    "gravity_ms2": 14.0123,
+    "escape_kms": 16.0901,
+    "area_km2": 1072410000.0,
+    "volume_km3": 3302290000000.0,
+    "circumference_km": 58043.8
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Methuselan System/Melchior.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "gas-giants",
+    "systems/methuselan"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Methuselan System]]",
+    "star": "[[Methuselah]]",
+    "mass_earth": 340.0,
+    "radius_earth": 11.2,
+    "semimajor_au": 0.25,
+    "orbital_speed_kms": 23.0,
+    "eccentricity": 0.0,
+    "inclination_deg": 1.0,
+    "period_days": 118.0,
+    "albedo_bond": 0.4,
+    "temperature_mean_k": 184.0,
+    "density_gcc": 1.33428,
+    "gravity_ms2": 26.6175,
+    "escape_kms": 61.6328,
+    "area_km2": 63982500000.0,
+    "volume_km3": 1521830000000000.0,
+    "circumference_km": 448338.0
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Methuselan System/Methuselah.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "star",
+    "systems/methuselan"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "system": "[[Methuselan System]]",
+    "mass_sun": 0.15,
+    "radius_sun": 0.3,
+    "luminosity_sun": 0.02,
+    "ra_hours": 14.1933,
+    "dec_deg": -47.3717,
+    "absolute_magnitude_v": 9.1,
+    "apparent_magnitude_v": 14.1,
+    "spectral_type": "K7V (late-stage *blue dwarf*, evolved from M6V)",
+    "constellation": "Chalices (fictional)"
+   },
+   "cover_candidate": "Gliese_581_Artist's_impression.jpg",
+   "tables_used": 1
+  },
+  "Methuselan System/Methuselan System.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "star-systems",
+    "systems/methuselan"
+   ],
+   "class": "system",
+   "proposed": {
+    "type": "system",
+    "star": "[[Methuselah]]",
+    "system_mass_sun": 0.151,
+    "age_gyr": 3000.0,
+    "distance_ly": 27000.0,
+    "ra_hours": 14.1933,
+    "dec_deg": -47.3717,
+    "hill_radius_km": 4936730.0,
+    "inclination_deg": 0.5,
+    "moons_count": 3
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Milky Way/Sagittarius A*.md": {
+   "existing_aliases": [
+    "Sgr A*",
+    "Sagittarius A-star"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "black-holes",
+    "real-astronomy"
+   ],
+   "class": "black-hole",
+   "proposed": {
+    "type": "black-hole"
+   },
+   "cover_candidate": null,
+   "tables_used": 0
+  },
+  "Nimvion System/Aurion and Argyra.md": {
+   "existing_aliases": [
+    "Aurion",
+    "Argyra"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "gas-giants",
+    "co-orbital-planets",
+    "systems/nimvion"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Nimvion System]]",
+    "star": "[[Nimvion 3421]]",
+    "semimajor_au": 4.1,
+    "eccentricity": 0.02,
+    "inclination_deg": 2.0,
+    "period_days": 3141.15
+   },
+   "cover_candidate": "Aurion.png",
+   "tables_used": 1
+  },
+  "Nimvion System/Francesca.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "terrestrial-planets",
+    "systems/nimvion"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Nimvion System]]",
+    "star": "[[Nimvion 3421]]",
+    "mass_earth": 1.07,
+    "radius_earth": 1.06,
+    "semimajor_au": 0.894,
+    "eccentricity": 0.01,
+    "inclination_deg": 0.01,
+    "obliquity_deg": 5.0,
+    "period_days": 320.0,
+    "rotation_period_hours": 51.0,
+    "flux_earth": 1.0,
+    "temperature_mean_k": 282.5,
+    "temperature_mean_k_min": 275.0,
+    "temperature_mean_k_max": 290.0,
+    "pressure_surface_bar": 1.2159,
+    "density_gcc": 4.95324,
+    "gravity_ms2": 9.35184,
+    "escape_kms": 11.2388,
+    "area_km2": 573108000.0,
+    "volume_km3": 1290120000000.0,
+    "circumference_km": 42432.0
+   },
+   "cover_candidate": "Francescan_Fog.png",
+   "tables_used": 1
+  },
+  "Nimvion System/Life on Stygium.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "exobiology",
+    "exoplanet-biospheres",
+    "systems/nimvion"
+   ],
+   "class": "biosphere",
+   "proposed": {
+    "type": "biosphere",
+    "system": "[[Nimvion System]]",
+    "planet": "[[Stygium]]",
+    "solvent": "Liquid sulfur dioxide (SO₂); trace intracellular H₂O",
+    "backbone": "Arsenic–sulfur–iron, carbon-compatible hybrid",
+    "primary_metabolism": "Arsenotrophic redox cycling (As(III)/As(V)); photoarsenotrophy",
+    "redox_couples": [
+     "As(III)/As(V)",
+     "Fe(II)/Fe(III)",
+     "HS⁻/S⁰",
+     "CO₂/CH₂O"
+    ],
+    "membrane_chemistry": "Arsenolipids with Fe–As–S biomineral stiffening complexes",
+    "photosynthesis_band_nm": "Peak ≈540 nm (green–yellow)",
+    "biosphere_age_gyr": 1.2,
+    "seeding_origin": "Abiogenesis under ferrous–arsenic hydrothermal conditions",
+    "dominant_lifeforms": [
+     "Ferriphyta",
+     "Scorophyta",
+     "Vesculophyta",
+     "Electroskeletalia"
+    ],
+    "ecosystems": [
+     "Ridge-plain thiofloral zones",
+     "SO₂ lake margins",
+     "magnetically active uplands"
+    ],
+    "biosphere_state": "Stable; field-integrated; high phyletic diversity",
+    "intelligent_species": [
+     "[[Morphfiends"
+    ],
+    "civilization_level": "Cultural–technological; schematic transmission pedagogy",
+    "surface_coverage": "Ferric-crust plains; SO₂ lakes; scorodite dunes; greigite reefs"
+   },
+   "cover_candidate": "Life_on_Stygium.png",
+   "tables_used": 1
+  },
+  "Nimvion System/Morphfiends.md": {
+   "existing_aliases": [
+    "Mentogymnos schematica",
+    "M. schematica"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "species",
+    "sapient-species",
+    "exobiology",
+    "exoplanet-biospheres",
+    "systems/nimvion"
+   ],
+   "class": "species",
+   "proposed": {
+    "type": "species",
+    "system": "[[Nimvion System]]"
+   },
+   "cover_candidate": "Morphfiend.png",
+   "tables_used": 1
+  },
+  "Nimvion System/Nimvion 3421.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "star",
+    "g-type-main-sequence-stars",
+    "planetary-systems",
+    "systems/nimvion"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "system": "[[Nimvion System]]",
+    "mass_sun": 0.93,
+    "radius_sun": 1.02,
+    "luminosity_sun": 0.8,
+    "metallicity_feh": 0.0,
+    "age_gyr": 5.2,
+    "distance_ly": 77.9513,
+    "ra_hours": 20.8333,
+    "dec_deg": 8.75,
+    "absolute_magnitude_v": 6.1,
+    "spectral_type": "G9 V / K0 V boundary",
+    "constellation": "Delphinus"
+   },
+   "cover_candidate": "61_Vir_as_seen_with_a_12.5__telescope_with_a_field_of_view_of_45.1_arcminutes.jpg",
+   "tables_used": 1
+  },
+  "Nimvion System/Nimvion System.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "star-systems",
+    "systems/nimvion"
+   ],
+   "class": "system",
+   "proposed": {
+    "type": "system",
+    "star": "[[Nimvion 3421]]",
+    "system_mass_sun": 0.93,
+    "age_gyr": 5.2
+   },
+   "cover_candidate": "Nimvion.svg",
+   "tables_used": 1
+  },
+  "Nimvion System/Nivalis.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "terrestrial-planets",
+    "systems/nimvion"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Nimvion System]]",
+    "star": "[[Nimvion 3421]]",
+    "mass_earth": 0.2,
+    "radius_earth": 0.645,
+    "semimajor_au": 1.9,
+    "eccentricity": 0.03,
+    "period_days": 992.0,
+    "rotation_period_hours": 28.0,
+    "flux_earth": 0.22,
+    "albedo_bond": 0.35,
+    "temperature_mean_k": 171.0,
+    "pressure_surface_bar": 0.303975,
+    "density_gcc": 4.10936,
+    "gravity_ms2": 4.72102,
+    "escape_kms": 6.22897,
+    "area_km2": 212200000.0,
+    "volume_km3": 290664000000.0,
+    "circumference_km": 25819.5
+   },
+   "cover_candidate": "Nivalis_from_space.png",
+   "tables_used": 1
+  },
+  "Nimvion System/Rheomede.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "gas-giants",
+    "systems/nimvion"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Nimvion System]]",
+    "star": "[[Nimvion 3421]]",
+    "mass_earth": 70.42,
+    "radius_earth": 11.15,
+    "radius_polar_earth": 10.22,
+    "semimajor_au": 0.68,
+    "period_days": 212.0,
+    "rotation_period_hours": 16.0,
+    "flux_earth": 1.73,
+    "albedo_bond": 0.28,
+    "temperature_mean_k": 294.0,
+    "flattening": 0.122,
+    "density_gcc": 0.280088,
+    "gravity_ms2": 5.56251,
+    "escape_kms": 28.112,
+    "area_km2": 63412500000.0,
+    "volume_km3": 1501540000000000.0,
+    "circumference_km": 446336.0
+   },
+   "cover_candidate": "Rheomede's_Rings.png",
+   "tables_used": 1
+  },
+  "Nimvion System/Stygium.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "terrestrial-planets",
+    "systems/nimvion"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Nimvion System]]",
+    "star": "[[Nimvion 3421]]",
+    "host": "[[Nimvion 3421]]",
+    "mass_earth": 1.7,
+    "radius_earth": 1.22,
+    "semimajor_au": 1.206,
+    "hill_radius_km": 2200000.0,
+    "roche_limit_km": 19000.0,
+    "eccentricity": 0.03,
+    "inclination_deg": 2.0,
+    "period_days": 502.0,
+    "rotation_period_hours": 10.0,
+    "flux_earth": 0.55,
+    "albedo_bond": 0.4,
+    "temperature_mean_k": 260.0,
+    "pressure_surface_bar": 2.0265,
+    "density_gcc": 5.1617,
+    "gravity_ms2": 11.2164,
+    "escape_kms": 13.2046,
+    "area_km2": 759180000.0,
+    "volume_km3": 1966940000000.0,
+    "circumference_km": 48836.8
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Orpheus and Eurydice System/Alchemis.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "systems/orpheus-and-eurydice"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Orpheus and Eurydice System]]",
+    "mass_earth": 3.5,
+    "radius_earth": 1.30278,
+    "semimajor_au": 0.4,
+    "eccentricity": 0.05,
+    "inclination_deg": 2.0,
+    "obliquity_deg": 12.0,
+    "period_days": 104.0,
+    "rotation_period_hours": 240.0,
+    "flux_earth": 2.5,
+    "albedo_bond": 0.35,
+    "pressure_surface_bar": 8.0,
+    "scale_height_km": 4.5,
+    "flattening": 0.0034,
+    "named_after": "Concept of alchemy; material transformation",
+    "adjectives": [
+     "Alchemian"
+    ],
+    "density_gcc": 8.72726,
+    "gravity_ms2": 20.2512,
+    "escape_kms": 18.3349,
+    "area_km2": 865700000.0,
+    "volume_km3": 2395110000000.0,
+    "circumference_km": 52150.5
+   },
+   "cover_candidate": "Alchemis.png",
+   "tables_used": 1
+  },
+  "Orpheus and Eurydice System/Dysmorph.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "exoplanets-with-proper-names",
+    "systems/orpheus-and-eurydice"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Orpheus and Eurydice System]]",
+    "host": "Orpheus (K0V)",
+    "mass_earth": 1.4,
+    "radius_earth": 0.949615,
+    "radius_polar_earth": 0.948831,
+    "semimajor_au": 1.6,
+    "period_days": 840.075,
+    "flux_earth": 0.15,
+    "albedo_bond": 0.3,
+    "temperature_mean_k": 325.0,
+    "temperature_mean_k_min": 200.0,
+    "temperature_mean_k_max": 450.0,
+    "pressure_surface_bar": 3.29306,
+    "pressure_surface_bar_min": 2.53313,
+    "pressure_surface_bar_max": 4.053,
+    "scale_height_km": 2.0,
+    "flattening": 0.0025,
+    "named_after": "Greek roots *dys* (“bad”) and *morphē* (“shape”)",
+    "adjectives": [
+     "Dysmorphic",
+     "Dysmorphian"
+    ],
+    "density_gcc": 9.01381,
+    "gravity_ms2": 15.2461,
+    "escape_kms": 13.5822,
+    "area_km2": 459960000.0,
+    "volume_km3": 927586000000.0,
+    "circumference_km": 38013.3
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Orpheus and Eurydice System/Formoquens.md": {
+   "existing_aliases": [
+    "Formoquen"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "species",
+    "humans-and-other-species",
+    "systems/orpheus-and-eurydice"
+   ],
+   "class": "species",
+   "proposed": {
+    "type": "species",
+    "system": "[[Orpheus and Eurydice System]]"
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Orpheus and Eurydice System/Laputa.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "exoplanets-in-the-habitable-zone",
+    "exoplanets-with-proper-names",
+    "systems/orpheus-and-eurydice"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Orpheus and Eurydice System]]",
+    "host": "Orpheus (K0V)",
+    "mass_earth": 1.8,
+    "radius_earth": 1.30278,
+    "radius_polar_earth": 1.29493,
+    "semimajor_au": 0.63,
+    "rotation_speed_kms": 0.59,
+    "eccentricity": 0.02,
+    "inclination_deg": 1.3,
+    "obliquity_deg": 19.0,
+    "period_days": 205.0,
+    "rotation_period_hours": 24.7,
+    "flux_earth": 1.01,
+    "albedo_bond": 0.34,
+    "temperature_mean_k": 289.0,
+    "pressure_surface_bar": 0.911925,
+    "scale_height_km": 9.0,
+    "flattening": 0.012,
+    "named_after": "The flying island in Jonathan Swift's *Gulliver's Travels*, reinterpreted",
+    "adjectives": [
+     "Laputan"
+    ],
+    "density_gcc": 4.4883,
+    "gravity_ms2": 10.4149,
+    "escape_kms": 13.1487,
+    "area_km2": 865700000.0,
+    "volume_km3": 2395110000000.0,
+    "circumference_km": 52150.5
+   },
+   "cover_candidate": "Laputa's_Floating_Crystal_Mountains.png",
+   "tables_used": 1
+  },
+  "Orpheus and Eurydice System/Life on Alchemis.md": {
+   "existing_aliases": [
+    "Alchemis Biosphere"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "astrobiology",
+    "exobiology",
+    "speculative-evolution",
+    "systems/orpheus-and-eurydice"
+   ],
+   "class": "biosphere",
+   "proposed": {
+    "type": "biosphere",
+    "system": "[[Orpheus and Eurydice System]]",
+    "planet": "[[Alchemis]]",
+    "solvent": "None (no bulk liquid phase; dry solid–gas interfaces)",
+    "backbone": "Lanthanide–platinum oxide networks; negligible organic polymers",
+    "primary_metabolism": "Photonic redox cycling",
+    "redox_couples": [
+     "CO/O₂",
+     "NH₃/NOₓ"
+    ],
+    "membrane_chemistry": "Structured metal oxide boundaries",
+    "photosynthesis_band_nm": "400–950 nm (visible to NIR)",
+    "biosphere_age_gyr": 1.35,
+    "seeding_origin": "Abiotic catalysis (native)",
+    "dominant_lifeforms": [
+     "Crystalline automata (e.g., proto-Formoquens)"
+    ],
+    "ecosystems": [
+     "Photonic catalytic domains",
+     "migratory zonal clades"
+    ],
+    "biosphere_state": "Active and self-expanding",
+    "intelligent_species": [
+     "Formoquens"
+    ],
+    "civilization_level": "Distributed post-ecological machine civilization",
+    "surface_coverage": "Solid catalytic crust, no surface water"
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Orpheus and Eurydice System/Life on Dysmorph.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "astrobiology",
+    "exobiology",
+    "speculative-evolution",
+    "systems/orpheus-and-eurydice"
+   ],
+   "class": "biosphere",
+   "proposed": {
+    "type": "biosphere",
+    "system": "[[Orpheus and Eurydice System]]",
+    "planet": "[[Dysmorph]]",
+    "solvent": "Liquid halides (SnCl₄, SbCl₃)",
+    "backbone": "Inorganic halide–phosphate–actinide–lanthanide composites; negligible organic polymers",
+    "primary_metabolism": "Uranium redox cycling (U⁴⁺ → UO₂²⁺; UO₂²⁺ → U⁴⁺ via I⁻)",
+    "redox_couples": [
+     "U⁴⁺/UO₂²⁺",
+     "Ce⁴⁺/Ce³⁺",
+     "I⁻/I₂"
+    ],
+    "membrane_chemistry": "Halide–phosphate ceramics with rare earth dopants",
+    "photosynthesis_band_nm": "None (uses ionizing radiation and redox potential)",
+    "biosphere_age_gyr": 0.3,
+    "seeding_origin": "Abiogenesis via actinide redox scaffolding",
+    "dominant_lifeforms": [
+     "Graditecta (tower-form autotrophs)",
+     "Ionocursans (mobile redox navigators)",
+     "Halothrusta (jetting generalists)"
+    ],
+    "ecosystems": [
+     "Fission basins",
+     "uranyl plains",
+     "halide lakes",
+     "Ce⁴⁺ mesas",
+     "iodine flats"
+    ],
+    "biosphere_state": "Expanding with increasing metabolic complexity",
+    "intelligent_species": [
+     "Teuthis radiomancia (radial ceramic ambiphian with radiomantic communication)"
+    ],
+    "civilization_level": "Preindustrial; gradient architecture and metabolic engineering",
+    "surface_coverage": "Rolling uranyl hills, gravity traps, and shallow halide seas"
+   },
+   "cover_candidate": "Teuthis_radiomancia_landscape.png",
+   "tables_used": 1
+  },
+  "Orpheus and Eurydice System/Life on Laputa.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "astrobiology",
+    "exobiology",
+    "speculative-evolution",
+    "systems/orpheus-and-eurydice"
+   ],
+   "class": "biosphere",
+   "proposed": {
+    "type": "biosphere",
+    "system": "[[Orpheus and Eurydice System]]",
+    "planet": "[[Laputa]]",
+    "solvent": "Water (low abundance)",
+    "backbone": "Carbon–Hydrogen–Nitrogen–Oxygen–Phosphorus–Sulfur (CHNOPS) with extensive rare-earth coordination; selenium substitution in some pathways",
+    "primary_metabolism": "Oxygenic photosynthesis; rare-earth redox cycling",
+    "redox_couples": [
+     "H₂O/O₂",
+     "Ce³⁺/Ce⁴⁺",
+     "Nd²⁺/Nd³⁺",
+     "SeO₄²⁻/Se⁰"
+    ],
+    "membrane_chemistry": "Phosphate esters and cerium-bound lipids",
+    "photosynthesis_band_nm": "550–750 nm (peak near 610 nm)",
+    "biosphere_age_gyr": 1.2,
+    "seeding_origin": "Native abiogenesis",
+    "dominant_lifeforms": [
+     "Crystalplasts",
+     "Redoxites",
+     "Selenobiontes"
+    ],
+    "ecosystems": [
+     "Brine-margin mats",
+     "crystal-face colonies",
+     "magnetic null basin fields"
+    ],
+    "biosphere_state": "Ongoing oxidation of crustal sinks and regional redox fronts; atmosphere already oxygen-rich",
+    "intelligent_species": [
+     "None"
+    ],
+    "civilization_level": "Simple microbial ecology (no native civilizations)",
+    "surface_coverage": "Sparse—liquid water covers <10% of the surface in localized brines; microbial mats on salt flats and cliff faces"
+   },
+   "cover_candidate": "Life_on_Laputa.png",
+   "tables_used": 1
+  },
+  "Orpheus and Eurydice System/Orpheus and Eurydice System.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "star-systems",
+    "systems/orpheus-and-eurydice"
+   ],
+   "class": "system",
+   "proposed": {
+    "type": "system",
+    "star": "[[Orpheus and Eurydice]]",
+    "system_mass_sun": 2.79
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Orpheus and Eurydice System/Orpheus and Eurydice.md": {
+   "existing_aliases": [
+    "Orpheus–Eurydice binary",
+    "Orpheus–Eurydice post-supernova fallback system"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "star-systems",
+    "k-type-stars",
+    "systems/orpheus-and-eurydice"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "system": "[[Orpheus and Eurydice System]]",
+    "orpheus_mass_sun": 0.79,
+    "orpheus_radius_sun": 0.765,
+    "orpheus_luminosity_sun": 0.4,
+    "orpheus_teff_k": 5250.0,
+    "orpheus_spectral_type": "V",
+    "eurydice_mass_sun": 2.0,
+    "eurydice_radius_sun": 1.58114e-05,
+    "eurydice_spectral_type": "Not specified",
+    "components": [
+     "orpheus",
+     "eurydice"
+    ]
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Skemer/Life on Skemer.md": {
+   "existing_aliases": [
+    "Skemer Biosphere"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "biospheres",
+    "systems/skemer"
+   ],
+   "class": "biosphere",
+   "proposed": {
+    "type": "biosphere",
+    "system": "Interstellar (rogue)",
+    "planet": "[[Skemer]]",
+    "solvent": "Water (H₂O)",
+    "backbone": "Carbon-based",
+    "primary_metabolism": "Electroautotrophy; sulfur redox cycling; methane and ammonia chemotrophy",
+    "redox_couples": [
+     "H₂/H⁺",
+     "H₂S/SO₄²⁻",
+     "CH₄/CO₂",
+     "H₂O₂/H₂O"
+    ],
+    "membrane_chemistry": "Phospholipid with extremophile adaptations",
+    "photosynthesis_band_nm": "None",
+    "seeding_origin": "Abiogenesis (native microbes); Synthetic Engineering (Skemer-mense domesticates)",
+    "dominant_lifeforms": [
+     "Geo-electric autotrophs",
+     "sulfur-metabolizers",
+     "methanotrophs",
+     "Skemer-mense and engineered domesticates"
+    ],
+    "ecosystems": [
+     "Battery forests",
+     "geothermal mats",
+     "engineered cave biomes",
+     "ammonia-bearing aqueous-brine microflora"
+    ],
+    "biosphere_state": "Expanding, increasingly complex",
+    "intelligent_species": [
+     "Skemer-mense (genetically modified humans)"
+    ],
+    "civilization_level": "Industrial–postindustrial (geothermal and biotech-based)",
+    "surface_coverage": "Vent belts, battery forests, geothermal lakes, cryobrine crusts"
+   },
+   "cover_candidate": "Skemer_biosphere_map.png",
+   "tables_used": 1
+  },
+  "Skemer/Skemer-mense.md": {
+   "existing_aliases": [
+    "Homo skemerensis",
+    "H. skemerensis"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "posthumans",
+    "species",
+    "systems/skemer"
+   ],
+   "class": "species",
+   "proposed": {
+    "type": "species",
+    "system": "[[Skemer]]"
+   },
+   "cover_candidate": "Space_dwarf_couple.png",
+   "tables_used": 1
+  },
+  "Skemer/Skemer.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "rogue-planets",
+    "systems/skemer"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "mass_earth": 1.87,
+    "radius_earth": 1.2,
+    "distance_ly": 100.13,
+    "rotation_period_hours": 40.0,
+    "pressure_surface_bar": 100.0,
+    "moons_count": 1,
+    "density_gcc": 5.96652,
+    "gravity_ms2": 12.7528,
+    "escape_kms": 13.9641,
+    "area_km2": 734493000.0,
+    "volume_km3": 1871780000000.0,
+    "circumference_km": 48036.2,
+    "system": "[[Skemer]]"
+   },
+   "cover_candidate": "Skemer_and_moon_in_space.png",
+   "tables_used": 1
+  },
+  "Sol System/Ceres.md": {
+   "existing_aliases": [
+    "(1) Ceres"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "sol",
+    "dwarf-planet",
+    "systems/sol"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Sol System]]",
+    "star": "[[Sun]]",
+    "mass_earth": 0.0001571,
+    "radius_earth": 0.074,
+    "semimajor_au": 2.77,
+    "eccentricity": 0.08,
+    "inclination_deg": 10.6,
+    "period_days": 1683.8,
+    "rotation_period_hours": 9.0744,
+    "flux_earth": 0.13,
+    "moons_count": 0,
+    "density_gcc": 2.13749,
+    "gravity_ms2": 0.281733,
+    "escape_kms": 0.515411,
+    "area_km2": 2793110.0,
+    "volume_km3": 438941000.0,
+    "circumference_km": 2962.23
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Sol System/Earth.md": {
+   "existing_aliases": [
+    "Earth (planet)",
+    "Terra"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "sol",
+    "planet",
+    "systems/sol"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Sol System]]",
+    "star": "[[Sun]]",
+    "mass_earth": 1.0,
+    "radius_earth": 1.0,
+    "semimajor_au": 1.0,
+    "eccentricity": 0.017,
+    "inclination_deg": 0.0,
+    "obliquity_deg": 23.4,
+    "period_days": 365.25,
+    "rotation_period_hours": 23.9352,
+    "flux_earth": 1.0,
+    "moons_count": 1,
+    "density_gcc": 5.51344,
+    "gravity_ms2": 9.8203,
+    "escape_kms": 11.1862,
+    "area_km2": 510064000.0,
+    "volume_km3": 1083210000000.0,
+    "circumference_km": 40030.2
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Sol System/Eris.md": {
+   "existing_aliases": [
+    "136199 Eris"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "sol",
+    "dwarf-planet",
+    "systems/sol"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Sol System]]",
+    "star": "[[Sun]]",
+    "mass_earth": 0.00278,
+    "radius_earth": 0.188,
+    "semimajor_au": 67.9,
+    "eccentricity": 0.438,
+    "inclination_deg": 43.9,
+    "period_days": 204540.0,
+    "rotation_period_hours": 25.896,
+    "flux_earth": 0.000217,
+    "moons_count": 1,
+    "density_gcc": 2.30672,
+    "gravity_ms2": 0.772421,
+    "escape_kms": 1.36027,
+    "area_km2": 18027700.0,
+    "volume_km3": 7197550000.0,
+    "circumference_km": 7525.67
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Sol System/Haumea.md": {
+   "existing_aliases": [
+    "136108 Haumea"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "sol",
+    "dwarf-planet",
+    "systems/sol"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Sol System]]",
+    "star": "[[Sun]]",
+    "mass_earth": 0.0006708,
+    "radius_earth": 0.112,
+    "semimajor_au": 43.1,
+    "eccentricity": 0.194,
+    "inclination_deg": 28.2,
+    "period_days": 103366.0,
+    "rotation_period_hours": 3.9144,
+    "flux_earth": 0.000538,
+    "moons_count": 2,
+    "density_gcc": 2.63246,
+    "gravity_ms2": 0.525148,
+    "escape_kms": 0.865703,
+    "area_km2": 6398250.0,
+    "volume_km3": 1521830000.0,
+    "circumference_km": 4483.38
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Sol System/Jupiter.md": {
+   "existing_aliases": [
+    "Jupiter (planet)",
+    "Jove"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "sol",
+    "planet",
+    "systems/sol"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Sol System]]",
+    "star": "[[Sun]]",
+    "mass_earth": 317.8,
+    "radius_earth": 10.973,
+    "semimajor_au": 5.203,
+    "eccentricity": 0.048,
+    "inclination_deg": 1.3,
+    "obliquity_deg": 3.1,
+    "period_days": 4334.79,
+    "rotation_period_hours": 9.924,
+    "flux_earth": 0.0369,
+    "moons_count": 95,
+    "density_gcc": 1.32617,
+    "gravity_ms2": 25.9196,
+    "escape_kms": 60.1999,
+    "area_km2": 61415200000.0,
+    "volume_km3": 1431160000000000.0,
+    "circumference_km": 439251.0
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Sol System/Makemake.md": {
+   "existing_aliases": [
+    "136472 Makemake"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "sol",
+    "dwarf-planet",
+    "systems/sol"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Sol System]]",
+    "star": "[[Sun]]",
+    "mass_earth": 0.0005191,
+    "radius_earth": 0.112,
+    "semimajor_au": 45.6,
+    "eccentricity": 0.159,
+    "inclination_deg": 29.0,
+    "period_days": 112497.0,
+    "rotation_period_hours": 22.488,
+    "flux_earth": 0.000481,
+    "moons_count": 1,
+    "density_gcc": 2.03714,
+    "gravity_ms2": 0.406387,
+    "escape_kms": 0.761549,
+    "area_km2": 6398250.0,
+    "volume_km3": 1521830000.0,
+    "circumference_km": 4483.38
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Sol System/Mars.md": {
+   "existing_aliases": [
+    "Mars (planet)"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "sol",
+    "planet",
+    "systems/sol"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Sol System]]",
+    "star": "[[Sun]]",
+    "mass_earth": 0.1074,
+    "radius_earth": 0.532,
+    "semimajor_au": 1.524,
+    "eccentricity": 0.093,
+    "inclination_deg": 1.8,
+    "obliquity_deg": 25.2,
+    "period_days": 687.035,
+    "rotation_period_hours": 24.624,
+    "flux_earth": 0.431,
+    "moons_count": 2,
+    "density_gcc": 3.93271,
+    "gravity_ms2": 3.72654,
+    "escape_kms": 5.02606,
+    "area_km2": 144360000.0,
+    "volume_km3": 163097000000.0,
+    "circumference_km": 21296.1
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Sol System/Mercury.md": {
+   "existing_aliases": [
+    "Mercury (planet)"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "sol",
+    "planet",
+    "systems/sol"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Sol System]]",
+    "star": "[[Sun]]",
+    "mass_earth": 0.05527,
+    "radius_earth": 0.383,
+    "semimajor_au": 0.387,
+    "eccentricity": 0.206,
+    "inclination_deg": 7.0,
+    "obliquity_deg": 0.034,
+    "period_days": 88.0252,
+    "rotation_period_hours": 1407.6,
+    "flux_earth": 6.67,
+    "moons_count": 0,
+    "density_gcc": 5.42395,
+    "gravity_ms2": 3.70013,
+    "escape_kms": 4.24939,
+    "area_km2": 74820800.0,
+    "volume_km3": 60856600000.0,
+    "circumference_km": 15331.6
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Sol System/Neptune.md": {
+   "existing_aliases": [
+    "Neptune (planet)"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "sol",
+    "planet",
+    "systems/sol"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Sol System]]",
+    "star": "[[Sun]]",
+    "mass_earth": 17.15,
+    "radius_earth": 3.865,
+    "semimajor_au": 30.07,
+    "eccentricity": 0.009,
+    "inclination_deg": 1.8,
+    "obliquity_deg": 28.3,
+    "period_days": 60266.2,
+    "rotation_period_hours": 16.1112,
+    "flux_earth": 0.00111,
+    "moons_count": 16,
+    "density_gcc": 1.63772,
+    "gravity_ms2": 11.2743,
+    "escape_kms": 23.5634,
+    "area_km2": 7619460000.0,
+    "volume_km3": 62540300000000.0,
+    "circumference_km": 154717.0
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Sol System/Pluto.md": {
+   "existing_aliases": [
+    "134340 Pluto"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "sol",
+    "dwarf-planet",
+    "systems/sol"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Sol System]]",
+    "star": "[[Sun]]",
+    "mass_earth": 0.002181,
+    "radius_earth": 0.187,
+    "semimajor_au": 39.5,
+    "eccentricity": 0.244,
+    "inclination_deg": 17.2,
+    "obliquity_deg": 119.5,
+    "period_days": 90582.0,
+    "rotation_period_hours": 153.288,
+    "flux_earth": 0.000642,
+    "moons_count": 5,
+    "density_gcc": 1.83888,
+    "gravity_ms2": 0.612488,
+    "escape_kms": 1.20806,
+    "area_km2": 17836400.0,
+    "volume_km3": 7083310000.0,
+    "circumference_km": 7485.64
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Sol System/Saturn.md": {
+   "existing_aliases": [
+    "Saturn (planet)"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "sol",
+    "planet",
+    "systems/sol"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Sol System]]",
+    "star": "[[Sun]]",
+    "mass_earth": 95.16,
+    "radius_earth": 9.14,
+    "semimajor_au": 9.537,
+    "eccentricity": 0.054,
+    "inclination_deg": 2.5,
+    "obliquity_deg": 26.7,
+    "period_days": 10757.0,
+    "rotation_period_hours": 10.656,
+    "flux_earth": 0.011,
+    "moons_count": 274,
+    "density_gcc": 0.68713,
+    "gravity_ms2": 11.1863,
+    "escape_kms": 36.094,
+    "area_km2": 42610600000.0,
+    "volume_km3": 827085000000000.0,
+    "circumference_km": 365876.0
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Sol System/Sol System.md": {
+   "existing_aliases": [
+    "Solar System"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "reference",
+    "star-systems",
+    "systems/sol"
+   ],
+   "class": "system",
+   "proposed": {
+    "type": "system",
+    "star": "[[Sun]]"
+   },
+   "cover_candidate": null,
+   "tables_used": 0
+  },
+  "Sol System/Sun.md": {
+   "existing_aliases": [
+    "Sol",
+    "The Sun"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "sol",
+    "star",
+    "systems/sol"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "system": "[[Sol System]]",
+    "mass_sun": 1.0,
+    "luminosity_sun": 1.0,
+    "teff_k": 5772.0,
+    "age_gyr": 4.6,
+    "spectral_type": "G2 V (yellow dwarf)",
+    "rotation_period_days": 25.4
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Sol System/Uranus.md": {
+   "existing_aliases": [
+    "Uranus (planet)"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "sol",
+    "planet",
+    "systems/sol"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Sol System]]",
+    "star": "[[Sun]]",
+    "mass_earth": 14.54,
+    "radius_earth": 3.981,
+    "semimajor_au": 19.189,
+    "eccentricity": 0.047,
+    "inclination_deg": 0.8,
+    "obliquity_deg": 97.8,
+    "period_days": 30681.0,
+    "rotation_period_hours": 17.2392,
+    "flux_earth": 0.00272,
+    "moons_count": 28,
+    "density_gcc": 1.27061,
+    "gravity_ms2": 9.00959,
+    "escape_kms": 21.378,
+    "area_km2": 8083690000.0,
+    "volume_km3": 68342000000000.0,
+    "circumference_km": 159360.0
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Sol System/Venus.md": {
+   "existing_aliases": [
+    "Venus (planet)"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "sol",
+    "planet",
+    "systems/sol"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Sol System]]",
+    "star": "[[Sun]]",
+    "mass_earth": 0.815,
+    "radius_earth": 0.95,
+    "semimajor_au": 0.723,
+    "eccentricity": 0.007,
+    "inclination_deg": 3.4,
+    "obliquity_deg": 177.4,
+    "period_days": 224.629,
+    "rotation_period_hours": 5832.0,
+    "flux_earth": 1.91,
+    "moons_count": 0,
+    "density_gcc": 5.24095,
+    "gravity_ms2": 8.8682,
+    "escape_kms": 10.3609,
+    "area_km2": 460333000.0,
+    "volume_km3": 928715000000.0,
+    "circumference_km": 38028.7
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Stellula System/Gigafusc.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "brown-dwarfs",
+    "systems/stellula"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "system": "[[Stellula System]]",
+    "star": "[[Stellula]]",
+    "mass_sun": 0.0133652,
+    "radius_sun": 0.113039,
+    "radius_polar_earth": 12.0075,
+    "luminosity_sun": 2.87356e-06,
+    "rotation_speed_kms": 34.9,
+    "orbital_speed_kms": 28.8,
+    "obliquity_deg": 0.0,
+    "flux_earth": 0.0145,
+    "albedo_bond": 0.1,
+    "temperature_mean_k": 700.0,
+    "temperature_mean_k_min": 650.0,
+    "temperature_mean_k_max": 750.0,
+    "flattening": 0.04,
+    "named_after": "*giga* (giant) + *fuscus* (dark)",
+    "adjectives": [
+     "Gigafuscan"
+    ],
+    "rotation_period_days": 0.166667,
+    "binary_separation_au": 0.1,
+    "binary_eccentricity": 0.0,
+    "binary_period_days": 37.8,
+    "binary_inclination_deg": 0.0
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Stellula System/Harth.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "systems/stellula"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Stellula System]]",
+    "star": "[[Stellula]]",
+    "mass_earth": 1.0,
+    "radius_earth": 1.0,
+    "radius_polar_earth": 0.997771,
+    "semimajor_au": 0.012034,
+    "rotation_speed_kms": 0.2721,
+    "orbital_speed_kms": 76.7962,
+    "eccentricity": 0.0,
+    "inclination_deg": 0.0,
+    "obliquity_deg": 0.0,
+    "period_days": 1.7048,
+    "rotation_period_hours": 40.9152,
+    "flux_earth": 1.0013,
+    "albedo_bond": 0.3,
+    "temperature_mean_k": 288.0,
+    "pressure_surface_bar": 1.01325,
+    "scale_height_km": 8.0,
+    "flattening": 0.0033,
+    "named_after": "Earth",
+    "adjectives": [
+     "Harthian"
+    ],
+    "density_gcc": 5.51344,
+    "gravity_ms2": 9.8203,
+    "escape_kms": 11.1862,
+    "area_km2": 510064000.0,
+    "volume_km3": 1083210000000.0,
+    "circumference_km": 40030.2
+   },
+   "cover_candidate": "Harth_render.png",
+   "tables_used": 1
+  },
+  "Stellula System/Stellula System.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "star-systems",
+    "systems/stellula"
+   ],
+   "class": "system",
+   "proposed": {
+    "type": "system",
+    "star": "[[Stellula]]",
+    "system_mass_sun": 0.0934,
+    "age_gyr": 2.0,
+    "inclination_deg": 1.0,
+    "spectral_type": "M9.5"
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Stellula System/Stellula.md": {
+   "existing_aliases": [
+    "AQV Stellula"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "star",
+    "red-dwarfs",
+    "systems/stellula"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "system": "[[Stellula System]]",
+    "mass_sun": 0.08,
+    "radius_sun": 0.1,
+    "system_luminosity_sun": 0.000145,
+    "teff_k": 2000.0,
+    "distance_ly": 39.0,
+    "ra_hours": 7.2083,
+    "dec_deg": -9.0833,
+    "absolute_magnitude_v": 19.5,
+    "apparent_magnitude_v": 19.9,
+    "spectral_type": "M9.5",
+    "constellation": "Monoceros"
+   },
+   "cover_candidate": "Scholz's_Star_VPHAS+.jpg",
+   "tables_used": 1
+  },
+  "Stellula System/Tito.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "systems/stellula"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Stellula System]]",
+    "star": "[[Stellula]]",
+    "mass_earth": 10.2,
+    "radius_earth": 2.8,
+    "radius_polar_earth": 2.78324,
+    "semimajor_au": 0.009184,
+    "rotation_speed_kms": 1.141,
+    "orbital_speed_kms": 87.906,
+    "eccentricity": 0.0,
+    "inclination_deg": 0.0,
+    "obliquity_deg": 0.0,
+    "period_days": 1.1366,
+    "rotation_period_hours": 27.28,
+    "flux_earth": 1.719,
+    "albedo_bond": 0.35,
+    "temperature_mean_k": 320.0,
+    "pressure_surface_bar": 1.72252,
+    "scale_height_km": 6.5,
+    "flattening": 0.006,
+    "named_after": "Titan",
+    "adjectives": [
+     "Titonian"
+    ],
+    "density_gcc": 2.56182,
+    "gravity_ms2": 12.7764,
+    "escape_kms": 21.3502,
+    "area_km2": 3998910000.0,
+    "volume_km3": 23778600000000.0,
+    "circumference_km": 112084.0
+   },
+   "cover_candidate": "Tito_terminator_concept.png",
+   "tables_used": 1
+  },
+  "Stellula System/Virans.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "systems/stellula"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Stellula System]]",
+    "star": "[[Stellula]]",
+    "mass_earth": 13.0,
+    "radius_earth": 3.84,
+    "radius_polar_earth": 3.79846,
+    "semimajor_au": 0.033,
+    "rotation_speed_kms": 0.2298,
+    "orbital_speed_kms": 46.3754,
+    "eccentricity": 0.0,
+    "inclination_deg": 0.0,
+    "obliquity_deg": 0.0,
+    "period_days": 7.7414,
+    "rotation_period_hours": 185.794,
+    "flux_earth": 0.1331,
+    "albedo_bond": 0.45,
+    "temperature_eq_k": 145.0,
+    "flattening": 0.011,
+    "named_after": "Viridian",
+    "adjectives": [
+     "Viranian"
+    ],
+    "density_gcc": 1.26582,
+    "gravity_ms2": 8.65776,
+    "escape_kms": 20.582,
+    "area_km2": 7521210000.0,
+    "volume_km3": 61334500000000.0,
+    "circumference_km": 153716.0
+   },
+   "cover_candidate": "Virans_green_mini-neptune.png",
+   "tables_used": 1
+  },
+  "Thrírlitir System/Aialon.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "systems/thrírlitir"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Thrírlitir System]]",
+    "star": "[[Thrírlitir#Thrírlitir A]]",
+    "mass_earth": 0.87,
+    "radius_earth": 0.96,
+    "semimajor_au": 1.58,
+    "hill_radius_km": 2068090.0,
+    "roche_limit_km": 14923.0,
+    "rotation_speed_kms": 0.381,
+    "eccentricity": 0.06,
+    "inclination_deg": 2.0,
+    "obliquity_deg": 15.0,
+    "period_days": 635.535,
+    "rotation_period_hours": 28.0,
+    "flux_earth": 1.06,
+    "flux_earth_min": 0.87,
+    "flux_earth_max": 1.25,
+    "albedo_bond": 0.32,
+    "temperature_mean_k": 288.0,
+    "pressure_surface_bar": 1.1,
+    "moons_count": 1,
+    "named_after": "truncation of \"Gaialon\" (\"second Gaia\")",
+    "adjectives": [
+     "Aialonic"
+    ],
+    "density_gcc": 5.42161,
+    "gravity_ms2": 9.27047,
+    "escape_kms": 10.6489,
+    "area_km2": 470075000.0,
+    "volume_km3": 958352000000.0,
+    "circumference_km": 38429.0
+   },
+   "cover_candidate": "Aialon_at_dusk.png",
+   "tables_used": 1
+  },
+  "Thrírlitir System/Aphrod.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "exoplanets-with-proper-names",
+    "systems/thrírlitir"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Thrírlitir System]]",
+    "star": "[[Thrírlitir#Binary Pair B+C]]",
+    "mass_earth": 1.7,
+    "radius_earth": 1.15,
+    "semimajor_au": 1.0,
+    "eccentricity": 0.03,
+    "inclination_deg": 1.0,
+    "period_days": 325.072,
+    "flux_earth": 0.68,
+    "flux_earth_min": 0.59,
+    "flux_earth_max": 0.77,
+    "albedo_bond": 0.3,
+    "temperature_mean_k": 280.0,
+    "pressure_surface_bar": 15.0,
+    "pressure_surface_bar_min": 10.0,
+    "pressure_surface_bar_max": 20.0,
+    "named_after": "TBD",
+    "adjectives": [
+     "Aphrodian"
+    ],
+    "density_gcc": 6.1628,
+    "gravity_ms2": 12.6235,
+    "escape_kms": 13.6006,
+    "area_km2": 674560000.0,
+    "volume_km3": 1647420000000.0,
+    "circumference_km": 46034.7
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Thrírlitir System/Barzél.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "dwarf-planet",
+    "iron-world",
+    "systems/thrírlitir"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Thrírlitir System]]",
+    "star": "[[Thrírlitir#Thrírlitir B",
+    "mass_earth": 0.01,
+    "radius_earth": 0.191493,
+    "semimajor_au": 0.05,
+    "eccentricity": 0.01,
+    "period_days": 4.43,
+    "rotation_period_hours": 106.32,
+    "flux_earth": 0.5,
+    "flux_earth_min": 0.3,
+    "flux_earth_max": 0.7,
+    "named_after": "Hebrew בַּרְזֶל (*barzel*), \"iron\"",
+    "density_gcc": 7.85171,
+    "gravity_ms2": 2.67805,
+    "escape_kms": 2.55626,
+    "area_km2": 18703800.0,
+    "volume_km3": 7606240000.0,
+    "circumference_km": 7665.5
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Thrírlitir System/Ceraun.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "hot-jupiters",
+    "systems/thrírlitir"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Thrírlitir System]]",
+    "star": "[[Thrírlitir#Thrírlitir A]]",
+    "mass_earth": 150.0,
+    "radius_earth": 12.3436,
+    "semimajor_au": 0.1,
+    "eccentricity": 0.001,
+    "inclination_deg": 0.0,
+    "period_days": 10.13,
+    "rotation_period_hours": 242.4,
+    "flux_earth": 250.5,
+    "albedo_bond": 0.1,
+    "scale_height_km": 500.0,
+    "named_after": "Greek *keraunós* (lightning), referencing violent atmospheric activity",
+    "adjectives": [
+     "Ceraunian"
+    ],
+    "density_gcc": 0.439733,
+    "gravity_ms2": 9.66791,
+    "escape_kms": 38.9947,
+    "area_km2": 77715700000.0,
+    "volume_km3": 2037220000000000.0,
+    "circumference_km": 494116.0
+   },
+   "cover_candidate": "A_digital_space_art_illustration_showcases_a_gas_g.png",
+   "tables_used": 1
+  },
+  "Thrírlitir System/Life on Aphrod.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "astrobiology",
+    "exobiology",
+    "speculative-evolution",
+    "systems/thrírlitir"
+   ],
+   "class": "biosphere",
+   "proposed": {
+    "type": "biosphere",
+    "system": "[[Thrírlitir System]]",
+    "planet": "[[Aphrod]]",
+    "temperature_mean_k": 285.0,
+    "temperature_mean_k_min": 275.0,
+    "temperature_mean_k_max": 295.0,
+    "pressure_surface_bar": 15.0,
+    "pressure_surface_bar_min": 10.0,
+    "pressure_surface_bar_max": 20.0,
+    "solvent": "Ammonia–water mixture",
+    "backbone": "C–H–N–O",
+    "primary_metabolism": "Methanotrophy, Fe³⁺-based redox cycling, facultative anoxygenic phototrophy",
+    "redox_couples": [
+     "CH₄/CO₂",
+     "NH₃/N₂",
+     "Fe³⁺/Fe²⁺",
+     "Mn⁴⁺/Mn²⁺"
+    ],
+    "membrane_chemistry": "Non-phospholipid; ammonia-compatible lipid analogs and protein–lipid hybrids",
+    "photosynthesis_band_nm": "Dual-band: visible (~600–700 nm) and near-IR (~800–1100 nm); both bands come mostly from the G-type star B (88% and 86% of photons), with the F star A adding 6–8% and the M star C 4.5–7%",
+    "biosphere_age_gyr": 1.0,
+    "seeding_origin": "Abiotic chemistry in ammonia–water oceans; probable surface–ocean interface origin",
+    "dominant_lifeforms": [
+     "Floating methanotropho-phototrophs",
+     "iron- and manganese-reducing surface microbes"
+    ],
+    "ecosystems": [
+     "Tropospheric suspension biota and benthic chemical mats"
+    ],
+    "biosphere_state": "Mature, stratified biosphere with coupled atmospheric–oceanic cycling",
+    "intelligent_species": [
+     "None"
+    ],
+    "civilization_level": "N/A",
+    "surface_coverage": "~85% ocean (NH₃–H₂O), 15% exposed rock"
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Thrírlitir System/Mot.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "frozen-ice-giant",
+    "systems/thrírlitir"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "system": "[[Thrírlitir System]]",
+    "mass_sun": 9.01024e-05,
+    "radius_sun": 0.0485357,
+    "teff_k": 35.0,
+    "hill_radius_km": 403914000.0,
+    "obliquity_deg": 18.0,
+    "flux_earth": 0.00023,
+    "albedo_bond": 0.11,
+    "flattening": 0.05,
+    "named_after": "Mot, ancient West Semitic god of death and desolation",
+    "adjectives": [
+     "Motic"
+    ],
+    "rotation_period_days": 0.466667,
+    "binary_separation_au": 117.0,
+    "binary_eccentricity": 0.09,
+    "binary_period_days": 289278.0,
+    "binary_inclination_deg": 1.6
+   },
+   "cover_candidate": "Mot_night_view.png",
+   "tables_used": 1
+  },
+  "Thrírlitir System/Pekhám.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "dwarf-planet",
+    "carbon-world",
+    "systems/thrírlitir"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Thrírlitir System]]",
+    "star": "[[Thrírlitir#Thrírlitir C",
+    "mass_earth": 0.008,
+    "radius_earth": 0.276252,
+    "semimajor_au": 0.05,
+    "eccentricity": 0.05,
+    "period_days": 6.46,
+    "rotation_period_hours": 155.04,
+    "flux_earth": 6.85,
+    "flux_earth_min": 4.6,
+    "flux_earth_max": 9.1,
+    "albedo_bond": 0.01,
+    "named_after": "Hebrew פֶּחָם (*peḥām*), \"charcoal\"",
+    "density_gcc": 2.09217,
+    "gravity_ms2": 1.02945,
+    "escape_kms": 1.90359,
+    "area_km2": 38925700.0,
+    "volume_km3": 22836400000.0,
+    "circumference_km": 11058.4
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Thrírlitir System/Thrírlitir System.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "star-systems",
+    "systems/thrírlitir"
+   ],
+   "class": "system",
+   "proposed": {
+    "type": "system",
+    "star": "[[Thrírlitir]]",
+    "system_mass_sun": 2.55,
+    "age_gyr": 2.0
+   },
+   "cover_candidate": "Thrírlitir_System_Diagram.svg",
+   "tables_used": 1
+  },
+  "Thrírlitir System/Thrírlitir.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "star",
+    "triple-star-systems",
+    "systems/thrírlitir"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "system": "[[Thrírlitir System]]",
+    "mass_sun": 1.3,
+    "radius_sun": 1.35,
+    "luminosity_sun": 2.505,
+    "teff_k": 6250.0,
+    "age_gyr": 2.0,
+    "absolute_magnitude_v": 3.8,
+    "spectral_type": "F8 V",
+    "constellation": "(local frame)"
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Thrírlitir System/Valen.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "systems/thrírlitir"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Thrírlitir System]]",
+    "star": "[[Thrírlitir#Binary Pair B+C]]",
+    "mass_earth": 1.33,
+    "radius_earth": 1.1,
+    "semimajor_au": 0.8,
+    "hill_radius_km": 1220000.0,
+    "roche_limit_km": 18000.0,
+    "eccentricity": 0.06,
+    "inclination_deg": 1.0,
+    "obliquity_deg": 20.0,
+    "period_days": 233.8,
+    "rotation_period_hours": 23.0,
+    "flux_earth": 1.15,
+    "flux_earth_min": 0.82,
+    "flux_earth_max": 1.48,
+    "albedo_bond": 0.37,
+    "temperature_mean_k": 290.0,
+    "pressure_surface_bar": 0.95,
+    "moons_count": 2,
+    "named_after": "Old Aialonic root related to \"vale\" / \"valley\"",
+    "adjectives": [
+     "Valenic"
+    ],
+    "density_gcc": 5.5093,
+    "gravity_ms2": 10.7942,
+    "escape_kms": 12.3002,
+    "area_km2": 617178000.0,
+    "volume_km3": 1441750000000.0,
+    "circumference_km": 44033.2
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Tom and Jerry and Nibbles/Jerry (gas giant).md": {
+   "existing_aliases": [
+    "Jerry"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planet",
+    "gas-giants",
+    "blanets",
+    "systems/tom-and-jerry-and-nibbles"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "system": "[[Tom and Jerry and Nibbles]]",
+    "host": "[[Tom (black hole)]]",
+    "mass_sun": 0.0114548,
+    "radius_sun": 0.113039,
+    "albedo_bond": 0.6,
+    "spectral_type": "Warm super-Jovian gas giant (*\"wam Jupiter\"*)",
+    "rotation_period_days": 0.333333,
+    "binary_separation_au": 50.0,
+    "binary_inclination_deg": 1.0
+   },
+   "cover_candidate": "Tom_and_Jerry_in_space.png",
+   "tables_used": 1
+  },
+  "Tom and Jerry and Nibbles/Life on Nibbles.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "astrobiology",
+    "biosphere",
+    "systems/tom-and-jerry-and-nibbles"
+   ],
+   "class": "biosphere",
+   "proposed": {
+    "type": "biosphere",
+    "system": "[[Tom and Jerry and Nibbles]]",
+    "planet": "[[Nibbles (habitable moon)]]",
+    "solvent": "Water (H₂O)",
+    "backbone": "Carbon-based",
+    "primary_metabolism": "Nitrogen oxide respiration; aurorotrophy; chemosynthesis",
+    "redox_couples": [
+     "NOₓ/NH₃ cycling",
+     "HNO₃/CH₄ respiration"
+    ],
+    "membrane_chemistry": "Phospholipid bilayers with radioprotective adaptations",
+    "photosynthesis_band_nm": "No dominant stellar photosynthesis; niche photon harvesting remains possible, spectrum unmodeled",
+    "biosphere_age_gyr": 2.0,
+    "seeding_origin": "Abiogenesis",
+    "dominant_lifeforms": [
+     "Nitrovores",
+     "Methanoclasts",
+     "Sulfopteroids",
+     "Aeronoids",
+     "Aurorotrophs",
+     "Symbiomorphs"
+    ],
+    "ecosystems": [
+     "Soil ammonia oxidizers",
+     "methane seep mats",
+     "auroral atmosphere processors"
+    ],
+    "biosphere_state": "Stable",
+    "intelligent_species": [
+     "Pedonpods"
+    ],
+    "civilization_level": "Sapience-emergent; early tools, farming, and symbolic behavior; no established industrial civilization",
+    "surface_coverage": "Sub-Jovian temperate plains; Antijovian subsurface aquifers"
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Tom and Jerry and Nibbles/Nibbles (habitable moon).md": {
+   "existing_aliases": [
+    "Nibbles"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "moons",
+    "habitable-moons",
+    "systems/tom-and-jerry-and-nibbles"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "system": "[[Tom and Jerry and Nibbles]]",
+    "mass_sun": 1.20137e-06,
+    "radius_sun": 0.00641038,
+    "semimajor_km": 1000000.0,
+    "moons_count": 0,
+    "spectral_type": "Terrestrial satellite (habitable)",
+    "binary_period_days": 1.865
+   },
+   "cover_candidate": "Tom_and_Jerry_in_space.png",
+   "tables_used": 1
+  },
+  "Tom and Jerry and Nibbles/Pedonpods.md": {
+   "existing_aliases": [
+    "Pedonpoda volticognita",
+    "leaping-field thinkers"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "species",
+    "astrobiology",
+    "systems/tom-and-jerry-and-nibbles"
+   ],
+   "class": "species",
+   "proposed": {
+    "type": "species",
+    "system": "[[Tom and Jerry and Nibbles]]",
+    "planet": "[[Nibbles (habitable moon)]]"
+   },
+   "cover_candidate": "Pedonpods.png",
+   "tables_used": 0
+  },
+  "Tom and Jerry and Nibbles/Tom (black hole).md": {
+   "existing_aliases": [
+    "Tom"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "black-holes",
+    "systems/tom-and-jerry-and-nibbles"
+   ],
+   "class": "black-hole",
+   "proposed": {
+    "type": "black-hole",
+    "system": "[[Tom and Jerry and Nibbles]]",
+    "mass_earth": 1664770000000.0,
+    "ra_hours": 21.4,
+    "dec_deg": -64.0
+   },
+   "cover_candidate": "HLX-1_black_hole.png",
+   "tables_used": 1
+  },
+  "Tom and Jerry and Nibbles/Tom and Jerry and Nibbles.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "star-systems",
+    "black-hole-systems",
+    "systems/tom-and-jerry-and-nibbles"
+   ],
+   "class": "system",
+   "proposed": {
+    "type": "system",
+    "system": "[[Tom and Jerry and Nibbles]]",
+    "planet": "Jerry, ~12 M♃ and 1.1 R♃",
+    "radius_earth": 0.7
+   },
+   "cover_candidate": "Black_hole's_accretion_disk.jpg",
+   "tables_used": 1
+  },
+  "Trigeminal System/Trigemina.md": {
+   "existing_aliases": [
+    "Trigemina"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "star",
+    "sextuple-star-systems",
+    "systems/trigeminal"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "system": "[[Trigeminal System]]",
+    "age_gyr": 2.5,
+    "age_gyr_min": 2.0,
+    "age_gyr_max": 3.0,
+    "distance_ly": 40.0,
+    "ra_hours": 12.0,
+    "dec_deg": 0.0,
+    "absolute_magnitude_v": 4.0,
+    "apparent_magnitude_v": 8.9,
+    "constellation": "Jinina"
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Trigeminal System/Trigeminal System.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "star-systems",
+    "systems/trigeminal"
+   ],
+   "class": "system",
+   "proposed": {
+    "type": "system",
+    "star": "[[Trigemina]]",
+    "system_mass_sun": 5.53,
+    "system_luminosity_sun": 8.71,
+    "age_gyr": 2.5,
+    "age_gyr_min": 2.0,
+    "age_gyr_max": 3.0,
+    "distance_ly": 640.0
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Ɬiʔa System/Belted King.md": {
+   "existing_aliases": [
+    "AQ-MV-01 f"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "sub-neptunes",
+    "systems/ɬiʔa"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Ɬiʔa System]]",
+    "star": "[[Mirar's Veil]], fictional AQ-MV-01",
+    "mass_earth": 3.5,
+    "radius_earth": 2.0,
+    "semimajor_au": 0.17289,
+    "hill_radius_km": 672000.0,
+    "eccentricity": 0.01,
+    "period_days": 58.71,
+    "rotation_period_hours": 15.0,
+    "flux_earth": 0.19753,
+    "moons_count": 5,
+    "density_gcc": 2.41213,
+    "gravity_ms2": 8.59276,
+    "escape_kms": 14.7979,
+    "area_km2": 2040260000.0,
+    "volume_km3": 8665660000000.0,
+    "circumference_km": 80060.3
+   },
+   "cover_candidate": "Belted_King.png",
+   "tables_used": 1
+  },
+  "Ɬiʔa System/Corpse.md": {
+   "existing_aliases": [
+    "The Corpse",
+    "Corpse (exoplanet)",
+    "AQ-MV-01 g"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "stripped-sub-neptunes",
+    "systems/ɬiʔa"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Ɬiʔa System]]",
+    "mass_earth": 2.6,
+    "radius_earth": 1.7,
+    "semimajor_au": 0.4,
+    "eccentricity": 0.06,
+    "period_days": 206.62,
+    "rotation_period_hours": 20.0,
+    "flux_earth": 0.0369,
+    "albedo_bond": 0.5,
+    "density_gcc": 2.91776,
+    "gravity_ms2": 8.83487,
+    "escape_kms": 13.8339,
+    "area_km2": 1474090000.0,
+    "volume_km3": 5321800000000.0,
+    "circumference_km": 68051.3
+   },
+   "cover_candidate": "The_Corpse_and_moons.png",
+   "tables_used": 1
+  },
+  "Ɬiʔa System/Crying Eye.md": {
+   "existing_aliases": [
+    "Mirar's Veil d"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "waterworlds",
+    "systems/ɬiʔa"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Ɬiʔa System]]",
+    "star": "[[Mirar's Veil]], fictional AQ-MV-01",
+    "mass_earth": 2.0,
+    "radius_earth": 1.4,
+    "semimajor_au": 0.100689,
+    "rotation_speed_kms": 0.02486,
+    "hill_radius_km": 325000.0,
+    "inclination_deg": 2.0,
+    "obliquity_deg": 0.0,
+    "albedo_bond": 0.3,
+    "pressure_surface_bar": 0.2,
+    "moons_count": 0,
+    "density_gcc": 4.01854,
+    "gravity_ms2": 10.0207,
+    "escape_kms": 13.37,
+    "area_km2": 999726000.0,
+    "volume_km3": 2972320000000.0,
+    "circumference_km": 56042.2
+   },
+   "cover_candidate": "Wet_eye_planet.png",
+   "tables_used": 1
+  },
+  "Ɬiʔa System/Epilepticus.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "terrestrial-planets",
+    "systems/ɬiʔa"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Ɬiʔa System]]",
+    "star": "[[Mirar's Veil]], fictional AQ-MV-01",
+    "mass_earth": 0.9,
+    "radius_earth": 1.0,
+    "semimajor_au": 0.13194,
+    "hill_radius_km": 326000.0,
+    "obliquity_deg": 20.0,
+    "period_days": 39.14,
+    "albedo_bond": 0.4,
+    "adjectives": [
+     "Epileptician",
+     "E-world"
+    ],
+    "density_gcc": 4.9621,
+    "gravity_ms2": 8.83827,
+    "escape_kms": 10.6121,
+    "area_km2": 510064000.0,
+    "volume_km3": 1083210000000.0,
+    "circumference_km": 40030.2
+   },
+   "cover_candidate": "Blasting_and_shattered.png",
+   "tables_used": 1
+  },
+  "Ɬiʔa System/Life on Crying Eye.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "biospheres",
+    "systems/ɬiʔa"
+   ],
+   "class": null,
+   "proposed": {
+    "system": "[[Ɬiʔa System]]",
+    "planet": "[[Crying Eye]]"
+   },
+   "cover_candidate": null,
+   "tables_used": 1
+  },
+  "Ɬiʔa System/Life on Middle Path.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "biospheres",
+    "silicon-based-life",
+    "systems/ɬiʔa"
+   ],
+   "class": "biosphere",
+   "proposed": {
+    "type": "biosphere",
+    "system": "[[Ɬiʔa System]]",
+    "star": "[[Mirar's Veil]]",
+    "planet": "[[Middle Path (exoplanet)]]",
+    "solvent": "Silicon: dry-phase; carbon: water",
+    "primary_metabolism": "Silicon: near-infrared photovoltaic photosynthesis (supplemented by electrosynthesis); carbon: oxygenic photosynthesis and heterotrophy",
+    "redox_couples": [
+     "Silicon: SiH₄/SiO₂ (at vents)",
+     "stored as armored hydrogenated silicon",
+     "carbon: O₂/organic oxidation"
+    ],
+    "membrane_chemistry": "Silicon: siloxane lattice; carbon: phospholipid bilayer",
+    "biosphere_age_gyr": 3.0,
+    "seeding_origin": "Dual: abiogenesis (silicon); divine transplantation (carbon)",
+    "dominant_lifeforms": [
+     "Crystalwalkers",
+     "vent-creepers",
+     "Electric Choirs",
+     "humans and transplanted Earth life"
+    ],
+    "intelligent_species": [
+     "Humans",
+     "Electric Choirs (distributed hive intelligences)"
+    ],
+    "civilization_level": "Pre-spacefaring electro-civilization; global population under one million in the primitive-technology period",
+    "surface_coverage": "≈50% shallow oceans (1 km mean depth), ≈50% rock with crystalline uplands around the substellar point; much of the land is arid"
+   },
+   "cover_candidate": "Glider_and_Butterflies.png",
+   "tables_used": 1
+  },
+  "Ɬiʔa System/Middle Path.md": {
+   "existing_aliases": [
+    "Middle Path (exoplanet)",
+    "Mirar's Veil c",
+    "AQ-MV-01 c"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "terrestrial-planets",
+    "habitable-planets",
+    "systems/ɬiʔa"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Ɬiʔa System]]",
+    "star": "[[Mirar's Veil]]",
+    "mass_earth": 1.05,
+    "radius_earth": 1.0247,
+    "semimajor_au": 0.07684,
+    "orbital_speed_kms": 48.05,
+    "hill_radius_km": 199845.0,
+    "eccentricity": 0.01,
+    "obliquity_deg": 0.0,
+    "period_days": 17.396,
+    "rotation_period_hours": 417.504,
+    "tidally_locked": true,
+    "albedo_bond": 0.2,
+    "temperature_mean_k": 288.0,
+    "pressure_surface_bar": 1.6212,
+    "moons_count": 1,
+    "density_gcc": 5.38049,
+    "gravity_ms2": 9.82021,
+    "escape_kms": 11.3234,
+    "area_km2": 535573000.0,
+    "volume_km3": 1165470000000.0,
+    "circumference_km": 41018.9
+   },
+   "cover_candidate": "Middle_Path_its_tethered_moon.png",
+   "tables_used": 1
+  },
+  "Ɬiʔa System/Mirar's Veil.md": {
+   "existing_aliases": [],
+   "existing_tags": [
+    "aquatikiverse",
+    "star",
+    "m-type-main-sequence-stars",
+    "stars-with-proper-names",
+    "local-bubble",
+    "systems/ɬiʔa"
+   ],
+   "class": "star",
+   "proposed": {
+    "type": "star",
+    "system": "[[Ɬiʔa System]]",
+    "luminosity_sun": 0.005904,
+    "teff_k": 3200.0,
+    "metallicity_feh": 0.4,
+    "age_gyr": 4.5,
+    "distance_ly": 49.9,
+    "spectral_type": "Approximately M5V; active, metal-rich red dwarf",
+    "constellation": "Ophiuchus"
+   },
+   "cover_candidate": "Barnardstar2006.jpg",
+   "tables_used": 1
+  },
+  "Ɬiʔa System/Shield Couple.md": {
+   "existing_aliases": [
+    "AQ-MV-01 h"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "binary-planets",
+    "systems/ɬiʔa"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Ɬiʔa System]]",
+    "radius_earth": 2.3,
+    "period_days": 1500.42,
+    "flux_earth": 0.002624,
+    "gravity_ms2": 9.28,
+    "escape_kms": 16.5,
+    "volume_km3": 13180000000000.0
+   },
+   "cover_candidate": "Shield_Couple.png",
+   "tables_used": 1
+  },
+  "Ɬiʔa System/Two-Face.md": {
+   "existing_aliases": [
+    "Two-Face (exoplanet)",
+    "Mirar's Veil b"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "terrestrial-planets",
+    "systems/ɬiʔa"
+   ],
+   "class": "planet",
+   "proposed": {
+    "type": "planet",
+    "system": "[[Ɬiʔa System]]",
+    "star": "[[Mirar's Veil]] (fictional AQ-MV-01), [[Ɬiʔa System]]",
+    "mass_earth": 2.1,
+    "radius_earth": 1.1,
+    "semimajor_au": 0.0586399,
+    "rotation_speed_kms": 0.04394,
+    "hill_radius_km": 192000.0,
+    "obliquity_deg": 2.0,
+    "period_days": 11.6,
+    "rotation_period_hours": 278.4,
+    "albedo_bond": 0.06,
+    "pressure_surface_bar": 0.020265,
+    "moons_count": 0,
+    "density_gcc": 8.6989,
+    "gravity_ms2": 17.0435,
+    "escape_kms": 15.4559,
+    "area_km2": 617178000.0,
+    "volume_km3": 1441750000000.0,
+    "circumference_km": 44033.2
+   },
+   "cover_candidate": "Two_Face.png",
+   "tables_used": 1
+  },
+  "Ɬiʔa System/Ɬiʔa System.md": {
+   "existing_aliases": [
+    "Ɬiʔa"
+   ],
+   "existing_tags": [
+    "aquatikiverse",
+    "planetary-systems",
+    "systems/ɬiʔa"
+   ],
+   "class": "system",
+   "proposed": {
+    "type": "system",
+    "star": "Mirar's Veil; fictional designation AQ-MV-01; approximately M5V",
+    "age_gyr": 4.5,
+    "distance_ly": 49.9
+   },
+   "cover_candidate": "Ɬiʔa_system_diagram_with_names.png",
+   "tables_used": 1
+  }
+ }
+}

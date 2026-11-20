@@ -1,0 +1,237 @@
+{
+  "constants": {
+    "F_kJ_per_V": 96.485,
+    "RT_kJ": 2.4788191
+  },
+  "reactions": [
+    {
+      "label": "Knallgas (per O2)",
+      "reaction": "2 H2 + 1 O2 -> 2 H2O",
+      "pages": "Earth reference",
+      "role": "forward",
+      "dG0_kJ": -474.2,
+      "dG_pH7_kJ": -474.2
+    },
+    {
+      "label": "Methanogenesis",
+      "reaction": "4 H2 + CO2 -> CH4 + 2 H2O",
+      "pages": "Life on Azotia; Life on Neonova",
+      "role": "forward",
+      "dG0_kJ": -130.5,
+      "dG_pH7_kJ": -130.5
+    },
+    {
+      "label": "Sulfate reduction by H2",
+      "reaction": "4 H2 + SO4-- + H+ -> HS- + 4 H2O",
+      "pages": "Life on Ferruva",
+      "role": "forward",
+      "dG0_kJ": -191.8,
+      "dG_pH7_kJ": -151.8
+    },
+    {
+      "label": "Sulfate-driven methane oxidation",
+      "reaction": "CH4 + SO4-- -> HCO3- + HS- + H2O",
+      "pages": "Life on Ferruva",
+      "role": "forward",
+      "dG0_kJ": -16.6,
+      "dG_pH7_kJ": -16.6
+    },
+    {
+      "label": "Nitrate-driven methane oxidation",
+      "reaction": "5 CH4 + 8 NO3- + 8 H+ -> 5 CO2 + 4 N2 + 14 H2O",
+      "pages": "Life on Nibbles",
+      "role": "forward",
+      "dG0_kJ": -4147.5,
+      "dG_pH7_kJ": -3827.9
+    },
+    {
+      "label": "Anammox",
+      "reaction": "NH4+ + NO2- -> N2 + 2 H2O",
+      "pages": "Life on Nibbles",
+      "role": "forward",
+      "dG0_kJ": -357.6,
+      "dG_pH7_kJ": -357.6
+    },
+    {
+      "label": "Methane + nitrate to ammonium",
+      "reaction": "CH4 + NO3- + 2 H+ -> CO2 + NH4+ + H2O",
+      "pages": "Life on Azotia",
+      "role": "forward",
+      "dG0_kJ": -548.9,
+      "dG_pH7_kJ": -469.0
+    },
+    {
+      "label": "Nitrate ammonification by H2",
+      "reaction": "NO3- + 4 H2 + 2 H+ -> NH4+ + 3 H2O",
+      "pages": "Life on Ferruva",
+      "role": "forward",
+      "dG0_kJ": -679.4,
+      "dG_pH7_kJ": -599.5
+    },
+    {
+      "label": "Peroxide + hydrogen",
+      "reaction": "H2 + H2O2 -> 2 H2O",
+      "pages": "Life on Oxhydra",
+      "role": "forward",
+      "dG0_kJ": -340.1,
+      "dG_pH7_kJ": -340.1
+    },
+    {
+      "label": "Peroxide + methane",
+      "reaction": "CH4 + 4 H2O2 -> CO2 + 6 H2O",
+      "pages": "Life on Oxhydra",
+      "role": "forward",
+      "dG0_kJ": -1229.9,
+      "dG_pH7_kJ": -1229.9
+    },
+    {
+      "label": "Peroxide + sulfide",
+      "reaction": "HS- + 4 H2O2 -> SO4-- + 4 H2O + H+",
+      "pages": "Life on Oxhydra",
+      "role": "forward",
+      "dG0_kJ": -1168.6,
+      "dG_pH7_kJ": -1208.6
+    },
+    {
+      "label": "Methane + ferric ion",
+      "reaction": "CH4 + 8 Fe+++ + 2 H2O -> CO2 + 8 Fe++ + 8 H+",
+      "pages": "Life on Neonova",
+      "role": "forward",
+      "dG0_kJ": -463.1,
+      "dG_pH7_kJ": -782.7
+    },
+    {
+      "label": "Methane + ferric hydroxide",
+      "reaction": "CH4 + 8 Fe(OH)3 -> CO2 + 8 Fe(OH)2 + 6 H2O",
+      "pages": "Life on Aphrod",
+      "role": "forward",
+      "dG0_kJ": -86.3,
+      "dG_pH7_kJ": -86.3
+    },
+    {
+      "label": "Photoferrotrophy (carbohydrate level)",
+      "reaction": "CO2 + 4 Fe(OH)2 + 3 H2O -> CH2O + 4 Fe(OH)3",
+      "pages": "Life on Aphrod",
+      "role": "regeneration",
+      "dG0_kJ": 112.8,
+      "dG_pH7_kJ": 112.8
+    },
+    {
+      "label": "Water splitting (per O2)",
+      "reaction": "2 H2O -> 2 H2 + 1 O2",
+      "pages": "Life on Skemer",
+      "role": "regeneration",
+      "dG0_kJ": 474.2,
+      "dG_pH7_kJ": 474.2
+    },
+    {
+      "label": "Peroxide from water and H2",
+      "reaction": "2 H2O -> H2 + H2O2",
+      "pages": "Life on Ferruva (radiolysis)",
+      "role": "regeneration",
+      "dG0_kJ": 340.1,
+      "dG_pH7_kJ": 340.1
+    },
+    {
+      "label": "Oxygenic photosynthesis (carbohydrate level)",
+      "reaction": "CO2 + H2O -> CH2O + O2",
+      "pages": "Earth reference",
+      "role": "regeneration",
+      "dG0_kJ": 478.6,
+      "dG_pH7_kJ": 478.6
+    },
+    {
+      "label": "Silane oxidation (per SiH4)",
+      "reaction": "SiH4 + 2 O2 -> SiO2 + 2 H2O",
+      "pages": "Life on Middle Path",
+      "role": "forward",
+      "dG0_kJ": -1387.4,
+      "dG_pH7_kJ": -1387.4
+    }
+  ],
+  "photoferrotrophy": {
+    "dG_kJ_per_C": 112.8,
+    "photons_per_C": 4,
+    "photon_energy_eV": 1.3,
+    "absorbed_kJ_per_mol_C": 501.7,
+    "efficiency": 0.225
+  },
+  "silane": {
+    "dH_per_O2_kJ": -758.3,
+    "dH_per_O2_eV": 7.86,
+    "dG_per_O2_kJ": -693.7,
+    "dG_per_O2_eV": 7.19
+  },
+  "atp_context": {
+    "ATP_synthesis_kJ_per_mol_cell": "about 50-70",
+    "minimum_quantum_kJ_per_reaction": "about 15-20 (about one third ATP)"
+  },
+  "half_reactions_pH7": [
+    {
+      "couple": "CO2 / CH2O",
+      "half_reaction": "CO2 + 4 H+ + 4 e- -> CH2O + H2O",
+      "n": 4,
+      "E0prime_V": -0.425
+    },
+    {
+      "couple": "H+ / H2",
+      "half_reaction": "2 H+ + 2 e- -> 1 H2",
+      "n": 2,
+      "E0prime_V": -0.414
+    },
+    {
+      "couple": "CO2 / CH4",
+      "half_reaction": "CO2 + 8 H+ + 8 e- -> CH4 + 2 H2O",
+      "n": 8,
+      "E0prime_V": -0.245
+    },
+    {
+      "couple": "SO4-- / HS-",
+      "half_reaction": "SO4-- + 9 H+ + 8 e- -> HS- + 4 H2O",
+      "n": 8,
+      "E0prime_V": -0.217
+    },
+    {
+      "couple": "Fe(OH)3 / Fe(OH)2",
+      "half_reaction": "Fe(OH)3 + H+ + 1 e- -> Fe(OH)2 + H2O",
+      "n": 1,
+      "E0prime_V": -0.133
+    },
+    {
+      "couple": "NO2- / NH4+",
+      "half_reaction": "NO2- + 8 H+ + 6 e- -> NH4+ + 2 H2O",
+      "n": 6,
+      "E0prime_V": 0.34
+    },
+    {
+      "couple": "NO3- / NO2-",
+      "half_reaction": "NO3- + 2 H+ + 2 e- -> NO2- + H2O",
+      "n": 2,
+      "E0prime_V": 0.431
+    },
+    {
+      "couple": "NO3- / N2",
+      "half_reaction": "2 NO3- + 12 H+ + 10 e- -> 1 N2 + 6 H2O",
+      "n": 10,
+      "E0prime_V": 0.747
+    },
+    {
+      "couple": "Fe+++ / Fe++",
+      "half_reaction": "Fe+++ + 1 e- -> Fe++",
+      "n": 1,
+      "E0prime_V": 0.769
+    },
+    {
+      "couple": "O2 / H2O",
+      "half_reaction": "1 O2 + 4 H+ + 4 e- -> 2 H2O",
+      "n": 4,
+      "E0prime_V": 0.815
+    },
+    {
+      "couple": "H2O2 / H2O",
+      "half_reaction": "H2O2 + 2 H+ + 2 e- -> 2 H2O",
+      "n": 2,
+      "E0prime_V": 1.348
+    }
+  ]
+}
