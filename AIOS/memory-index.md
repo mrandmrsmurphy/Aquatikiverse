@@ -8,7 +8,7 @@ Read this first, every session, before touching vault content. Each line points 
 - [Articles and historical material](memory/project_article_and_history_separation.md) — Presentable current-state articles are the goal; migrate existing audit history into logs in a later task.
 - [Page conventions](memory/project_page_conventions.md) — Confirmed Obsidian conventions: folder per system, Unicode names, wikilinks, YAML and property tables.
 - [Scientific reconciliation workflow](memory/feedback_scientific_reconciliation.md) — Preserve fictional identity, explain scientific tradeoffs, and distinguish chosen speculation from calculated results.
-- [Recovery priority](memory/project_recovery_priority.md) — AIOS and logging support recovery from AI mistakes; a manual zip backup (2026-11-13) sits in the parent folder; no git yet.
+- [Recovery priority](memory/project_recovery_priority.md) — AIOS and logging support recovery from AI mistakes; a manual zip backup (2026-11-13) sits in the parent folder; git repo + public GitHub remote since 2026-11-20.
 - [Middle Path priorities](memory/project_middle_path_priorities.md) — The user’s most precious world: physical reconciliation complete (2026-11-14), full decision record inside; discuss before changing it further.
 - [Middle Path lore questions](memory/project_middle_path_lore_questions.md) — Open lore topics and unadopted contact/cosmology proposals to ask the user about later.
 - [Vault cleanup plan](memory/project_vault_cleanup_plan.md) — Finish the MediaWiki migration, drop Sources eventually, add documentation and a science encyclopedia.
@@ -23,5 +23,5 @@ Read this first, every session, before touching vault content. Each line points 
 - [Scripts live in AIOS](memory/feedback_scripts_in_aios.md) — Research/ folders deleted; new scripts go in AIOS/scripts/ with a date prefix; results go on pages as tables.
 - [Remove reconciliation files per system](memory/project_reconciliation_files_removal.md) — No archive: per system, fold 'why the current setup works' into content pages, relink carefully, delete the record; never mention the user's earlier drafts.
 - [YAML and frontmatter goals](memory/project_yaml_frontmatter_goals.md) — Infobox tables become comparable numeric frontmatter properties in common units; all wiki-import YAML is junk and goes; design the schema with the user first.
-- [GitHub image upload caution](memory/project_github_image_upload_caution.md) — When making the vault a repo, never push all images at once; stage in batches, text-only first commit.
+- [GitHub image upload caution](memory/project_github_image_upload_caution.md) — Repo exists (public, text-only pushed); images (`images/`, ~158 MB) go up in batches of ~20-30 MB, never all at once.
 - [Front door and timeline](memory/project_front_door_and_timeline.md) — Home over four doors (physics, chemistry, speculative biology, worlds/stories); shared timeline and connections planned, not built.

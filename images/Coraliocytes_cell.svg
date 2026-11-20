@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="800"
+   height="800"
+   viewBox="0 0 800 800"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="coraliocyte_labeled_angled.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.28875"
+     inkscape:cx="399.61203"
+     inkscape:cy="400"
+     inkscape:window-width="2040"
+     inkscape:window-height="1186"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg16" />
+  <style
+     id="style1">
+    .label { font: 13px sans-serif; text-anchor: middle; }
+    .desc  { font: 12px sans-serif; text-anchor: start; }
+    .organelle { stroke: black; stroke-width: 1; }
+    .pointer { stroke: black; stroke-width: 1; marker-end: url(#arrow); }
+  </style>
+  <defs
+     id="defs1">
+    <marker
+       id="arrow"
+       markerWidth="10"
+       markerHeight="7"
+       refX="10"
+       refY="3.5"
+       orient="auto">
+      <polygon
+         points="0 0, 10 3.5, 0 7"
+         fill="black"
+         id="polygon1" />
+    </marker>
+  </defs>
+  <circle
+     cx="400"
+     cy="400"
+     r="300"
+     fill="lightblue"
+     stroke="black"
+     stroke-width="4"
+     id="circle1" />
+  <ellipse
+     class="organelle"
+     cx="400"
+     cy="240"
+     rx="45"
+     ry="30"
+     fill="lightyellow"
+     id="ellipse1" />
+  <text
+     class="label"
+     x="400"
+     y="245"
+     id="text1">Xenovault</text>
+  <line
+     class="pointer"
+     x1="390.86945"
+     y1="210.52043"
+     x2="534.45721"
+     y2="86.557259"
+     id="line1" />
+  <text
+     class="desc"
+     x="540.77112"
+     y="89.466537"
+     id="text2"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:sans-serif">Stores halogen-bonded PS/PS₂ genome</text>
+  <rect
+     class="organelle"
+     x="260"
+     y="295"
+     width="80"
+     height="50"
+     rx="10"
+     ry="10"
+     fill="palegreen"
+     id="rect2" />
+  <text
+     class="label"
+     x="300"
+     y="325"
+     id="text3">Chlorocline</text>
+  <line
+     class="pointer"
+     x1="278.88629"
+     y1="305.50479"
+     x2="221.22774"
+     y2="115.90553"
+     id="line3" />
+  <text
+     class="desc"
+     x="124.9001"
+     y="94.966049"
+     id="text4"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:sans-serif">Generates Cl₂ and F₂ using light</text>
+  <rect
+     class="organelle"
+     x="460"
+     y="295"
+     width="80"
+     height="50"
+     rx="10"
+     ry="10"
+     fill="lightcoral"
+     id="rect4" />
+  <text
+     class="label"
+     x="500"
+     y="325"
+     id="text5">Haloforge</text>
+  <line
+     class="pointer"
+     x1="508.55551"
+     y1="299.09158"
+     x2="583.47375"
+     y2="132.95953"
+     id="line5" />
+  <text
+     class="desc"
+     x="537.58002"
+     y="122.8293"
+     id="text6"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:sans-serif">Extracts energy from halocarbon oxidation</text>
+  <circle
+     class="organelle"
+     cx="400"
+     cy="400"
+     r="35"
+     fill="khaki"
+     id="circle6" />
+  <text
+     class="label"
+     x="400"
+     y="405"
+     id="text7">Thioxisome</text>
+  <line
+     class="pointer"
+     x1="382.90857"
+     y1="373.71231"
+     x2="293.52829"
+     y2="394.71008"
+     id="line7" />
+  <text
+     class="desc"
+     x="5.3879728"
+     y="398.42871"
+     id="text8"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:sans-serif">Performs redox logic and memory computation</text>
+  <ellipse
+     class="organelle"
+     cx="300"
+     cy="480"
+     rx="45"
+     ry="30"
+     fill="plum"
+     id="ellipse8" />
+  <text
+     class="label"
+     x="300"
+     y="485"
+     id="text9">Volucaster</text>
+  <line
+     class="pointer"
+     x1="254.51253"
+     y1="480.16467"
+     x2="142.36661"
+     y2="650.46289"
+     id="line9" />
+  <text
+     class="desc"
+     x="5.4946651"
+     y="675.45782"
+     id="text10"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:sans-serif">Synthesizes and emits volatile signals</text>
+  <ellipse
+     class="organelle"
+     cx="500"
+     cy="480"
+     rx="63.43803"
+     ry="39.90263"
+     fill="#87ceeb"
+     id="ellipse10" />
+  <text
+     class="label"
+     x="500"
+     y="485"
+     id="text11">Cryobracchium</text>
+  <line
+     class="pointer"
+     x1="495.01398"
+     y1="461.42133"
+     x2="551.698"
+     y2="412.43396"
+     id="line11" />
+  <text
+     class="desc"
+     x="495.76917"
+     y="400.0679"
+     id="text12"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:sans-serif">Senses light and redox changes</text>
+  <rect
+     class="organelle"
+     x="360"
+     y="515"
+     width="80"
+     height="50"
+     rx="10"
+     ry="10"
+     fill="lightgrey"
+     id="rect12" />
+  <text
+     class="label"
+     x="400"
+     y="545"
+     id="text13">Scleroduct</text>
+  <line
+     class="pointer"
+     x1="412.83878"
+     y1="553.16431"
+     x2="593.58704"
+     y2="672.71344"
+     id="line13" />
+  <text
+     class="desc"
+     x="579.60718"
+     y="691.30939"
+     id="text14"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:sans-serif">Diminished motility scaffold</text>
+  <circle
+     class="organelle"
+     cx="400"
+     cy="620"
+     r="35"
+     fill="lightcyan"
+     id="circle14" />
+  <text
+     class="label"
+     x="400"
+     y="625"
+     id="text15">Brinacore</text>
+  <line
+     class="pointer"
+     x1="386.3887"
+     y1="627.64435"
+     x2="351.03534"
+     y2="751.44019"
+     id="line15" />
+  <text
+     class="desc"
+     x="246.01164"
+     y="765.88751"
+     id="text16"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:sans-serif">Regulates ionic and osmotic balance</text>
+</svg>
