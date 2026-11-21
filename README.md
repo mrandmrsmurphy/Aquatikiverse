@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/Aquatiki.png" alt="Aquatikiverse logo: a teal tiki mask" width="160">
+</p>
+
 # Aquatikiverse
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE.md)
