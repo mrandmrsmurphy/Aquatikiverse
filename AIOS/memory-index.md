@@ -24,4 +24,6 @@ Read this first, every session, before touching vault content. Each line points 
 - [Remove reconciliation files per system](memory/project_reconciliation_files_removal.md) — No archive: per system, fold 'why the current setup works' into content pages, relink carefully, delete the record; never mention the user's earlier drafts.
 - [YAML and frontmatter goals](memory/project_yaml_frontmatter_goals.md) — Infobox tables become comparable numeric frontmatter properties in common units; all wiki-import YAML is junk and goes; design the schema with the user first.
 - [GitHub image upload caution](memory/project_github_image_upload_caution.md) — Repo exists (public, text-only pushed); images (`images/`, ~158 MB) go up in batches of ~20-30 MB, never all at once.
+- [Git handled by Obsidian](memory/feedback_git_handled_by_obsidian.md) — Obsidian Git plugin auto-commits/pushes; Claude never runs git commit/push here.
 - [Front door and timeline](memory/project_front_door_and_timeline.md) — Home over four doors (physics, chemistry, speculative biology, worlds/stories); shared timeline and connections planned, not built.
+- [Repo license and metadata](memory/project_repo_license_and_metadata.md) — CC BY-NC-SA 4.0 for text and images; README, LICENSE.md, CITATION.cff, CONTRIBUTING added; GitHub description and topics set.

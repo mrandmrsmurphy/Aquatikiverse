@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite it as below."
+title: "Aquatikiverse"
+type: dataset
+abstract: "A worldbuilding vault of fictional stars, planets, biospheres and civilizations, with calculated physical and chemical bases, for practicing physics, chemistry and biology together."
+authors:
+  - family-names: "Murphy"
+    given-names: "Robert Marshall"
+repository-code: "https://github.com/mrandmrsmurphy/Aquatikiverse"
+license: CC-BY-NC-SA-4.0
+keywords:
+  - worldbuilding
+  - speculative biology
+  - astrobiology
+  - exoplanets
+  - science education

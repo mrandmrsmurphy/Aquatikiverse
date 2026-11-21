@@ -45,4 +45,10 @@ Running table of the vault's pages and their status. "What changed and when" liv
 | [CLAUDE.md](<../CLAUDE.md>) | New (2026-11-13): standing instructions, byte-identical to AGENTS.md. | Active |
 | [AGENTS.md](<../AGENTS.md>) | New (2026-11-13): standing instructions, byte-identical to CLAUDE.md. | Active |
 
+| [README.md](<../README.md>) | New (2026-11-20): GitHub front page: purpose, four doors, folder layout, how to view in Obsidian, license, citing. | Active |
+| [LICENSE.md](<../LICENSE.md>) | New (2026-11-20): CC BY-NC-SA 4.0 legal code covering all text and images. | Active |
+| [CITATION.cff](<../CITATION.cff>) | New (2026-11-20): citation metadata for GitHub's "Cite this repository". | Active |
+| [CONTRIBUTING.md](<../CONTRIBUTING.md>) | New (2026-11-20): how outsiders can suggest corrections; premise changes are not accepted. | Active |
+| .gitattributes | New (2026-11-20): line-ending and binary rules for git. | Active |
+
 *Update the relevant row whenever a page's scope or status changes; add a row for every new major file or folder.*
